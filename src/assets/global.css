@@ -1,6 +1,6 @@
 @import './variables.css';
 
-* {
+*, html {
     font-family: 'global', sans-serif;
     margin: 0;
     padding: 0;

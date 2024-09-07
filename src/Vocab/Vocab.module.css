@@ -30,7 +30,6 @@
     width: 66%;
     overflow-y: auto;
     cursor: pointer;
-    margin-bottom: 4rem;
 }
 
 .word_div_parent {
@@ -45,8 +44,8 @@
 }
 
 .word_div_two {
-    padding: 1rem;
     font-size: 1.2vw;
+    padding: 1rem;
 }
 
 .meaning {
@@ -64,17 +63,18 @@
 }
 
 .emoji {
-    font-size: 10vw;
+    font-size: 20vw;
+    margin: 0;
     text-align: center;
 }
 
 .back {
-    font-size: 5rem;
-    color: var(--fg-color);
+    font-size: 3rem;
+    color: var(--transparent-black);
     position: fixed;
     margin-left: 0.3rem;
     bottom: 0;
-    right: 1;
+    left: 0;
 }
   
 @media (max-width: 650px) {
@@ -105,4 +105,3 @@
         font-size: 40vw;
     }    
 }
-
