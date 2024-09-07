@@ -6,7 +6,9 @@ import meta from './meta.json';
 export default function RightBar() {
     const [letter, setLetter] = useState("");
     const aToz = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
-    
+    const takeMeBack = ()=>{
+        setLetter("");
+    }
     return (
         <div className={style.rightbar_parent}>
             {!letter ? (
@@ -20,7 +22,7 @@ export default function RightBar() {
                     })}
                 </div>
             ) : (
-                <Vocab letter={letter}/>
+                <Vocab letter={letter} backCallback={takeMeBack}/>
             )}
         </div>
     );

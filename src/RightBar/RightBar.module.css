@@ -1,10 +1,14 @@
 .rightbar_parent {
+    margin-top: 1rem;
     position: fixed;
     right: 0;
     top: 0;
     bottom: 0;
     width: 66%;
     overflow-y: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .rightbar {
     display: flex;
@@ -43,7 +47,6 @@
 
 @media (max-width:650px) {
     .rightbar_parent {
-        margin-top: 1rem;
         position: static;
         width: 100%;
         margin-bottom: 1rem;
