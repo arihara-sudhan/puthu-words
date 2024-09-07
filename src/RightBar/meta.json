@@ -1,75 +1,14 @@
 [
-    {
-      "imgPath": "A.png"
-    },
-    {
-      "imgPath": "B.png"
-    },
-    {
-      "imgPath": "C.png"
-    },
-    {
-      "imgPath": "D.png"
-    },
-    {
-        "imgPath": "A.png"
-      },
-    {
-        "imgPath": "B.png"
-      },
-      {
-        "imgPath": "C.png"
-      },
-      {
-        "imgPath": "D.png"
-      },
-      {
-        "imgPath": "A.png"
-      },
-      {
-        "imgPath": "B.png"
-      },
-      {
-        "imgPath": "C.png"
-      },
-      {
-        "imgPath": "D.png"
-      },
-      {
-        "imgPath": "A.png"
-      },
-      {
-        "imgPath": "B.png"
-      },
-      {
-        "imgPath": "C.png"
-      },
-      {
-        "imgPath": "D.png"
-      },
-      {
-          "imgPath": "A.png"
-        },
-      {
-          "imgPath": "B.png"
-        },
-        {
-          "imgPath": "C.png"
-        },
-        {
-          "imgPath": "D.png"
-        },
-        {
-          "imgPath": "A.png"
-        },
-        {
-          "imgPath": "B.png"
-        },
-        {
-          "imgPath": "C.png"
-        },
-        {
-          "imgPath": "D.png"
-        }
-  ]
-  
+  { "imgPath": "A.png" },
+  { "imgPath": "B.png" },
+  { "imgPath": "C.png" },
+  { "imgPath": "D.png" },
+  { "imgPath": "E.png" },
+  { "imgPath": "F.png" },
+  { "imgPath": "G.png" },
+  { "imgPath": "H.png" },
+  { "imgPath": "I.png" },
+  { "imgPath": "J.png" },
+  { "imgPath": "K.png" },
+  { "imgPath": "L.png" }
+]

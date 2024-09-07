@@ -45,6 +45,8 @@
     border-radius: 2rem;
 }
 
-.rightbar img {
-    width: 100%;
+.rightbar div h1 {
+    font-size: 7vw;
+    font-weight: bolder;
+    color: var(--fg-color);
 }
