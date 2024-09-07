@@ -7,7 +7,9 @@
     border-radius: 1rem;
     font-size: 1.2vw;
     color: #000;
+    cursor: crosshair;
 }
+
 
 .speaker {
     width: 5%;
