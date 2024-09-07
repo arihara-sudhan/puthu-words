@@ -72,10 +72,10 @@ export default function Vocab({ letter , backCallback }) {
                     </div>
                     { expandedIndex === idx && 
                         <div className={styles.word_div_two}>
-                            <h3 className={styles.meaning}>{rec.meaning_in_tamil}</h3>
-                            <h4 className={styles.example}>{rec.example_in_tamil}</h4>
                             <h3 className={styles.meaning}>{rec.meaning}</h3>
+                            <h3 className={styles.meaning}>{rec.meaning_in_tamil}</h3>
                             <h4 className={styles.example}>{rec.example}</h4>
+                            <h4 className={styles.example}>{rec.example_in_tamil}</h4>
                             <h1 className={styles.emoji}>{rec.emoji}</h1>
                         </div>
                     }

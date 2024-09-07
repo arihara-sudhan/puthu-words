@@ -35,7 +35,7 @@
 .word_div_parent {
     background-color: var(--fg-color);
     color: #000;
-    margin: 0.61rem;
+    margin: 0.40rem;
     border-radius: 0.5rem;
     font-size: 1.1vw;
     width: 95%;
@@ -44,7 +44,7 @@
 }
 
 .word_div_two {
-    font-size: 1.2vw;
+    font-size: 1.4vw;
     padding: 1rem;
 }
 
@@ -55,6 +55,7 @@
 
 .words_div input {
     margin-top: 0.41rem;
+    margin-bottom: 0.41rem;
     padding: 0.21rem;
     width: 50%;
     border: none;
