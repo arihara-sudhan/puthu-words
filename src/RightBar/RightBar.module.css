@@ -8,6 +8,7 @@
 }
 .rightbar {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     background-color: var(--bg-color);
     width: 100%;
