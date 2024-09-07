@@ -51,6 +51,7 @@
         position: static;
         width: 100%;
         margin-bottom: 1rem;
+        margin-left: 1.2rem;
     }
     .rightbar {
         display: flex;
