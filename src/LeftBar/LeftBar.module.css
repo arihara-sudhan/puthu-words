@@ -13,7 +13,7 @@
   height: 100vh;
 }
 
-.leftbar span {
+.leftbar h1 {
   font-size: 3vw;
 }
 
@@ -35,5 +35,27 @@
   100% {
       transform: translateY(0%);
       opacity: 1;
+  }
+}
+
+
+@media (max-width: 650px){
+  .leftbar {
+    position: static;
+    width: 100%;
+    height: auto;
+  }
+  .leftbar img {
+    width: 90%;
+  }
+  .textdiv {
+    font-size: 5vw;
+    width: 90%;
+  }
+  .leftbar h1 {
+    font-size: 10vw;
+  }
+  p {
+    font-size: 7vw;
   }
 }

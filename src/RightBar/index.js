@@ -8,7 +8,7 @@ export default function RightBar() {
     const aToz = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     
     return (
-        <div className={style.parent}>
+        <div className={style.rightbar_parent}>
             {!letter ? (
                 <div className={style.rightbar}>
                     {meta.map((rec, index) => {

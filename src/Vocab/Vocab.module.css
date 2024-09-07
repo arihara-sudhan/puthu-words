@@ -27,6 +27,7 @@
     bottom: 0;
     width: 66%;
     overflow-y: auto;
+    cursor: pointer;
 }
 
 .word_div_parent {
@@ -57,4 +58,30 @@
     border: none;
     border-radius: 1rem;
     padding-left: 0.5rem;
+}
+
+@media (max-width: 650px) {
+    .words_div {
+        position: static;
+        width: 100%;
+    }
+    .word_div_parent {
+        width: 90%;
+    }
+    .word_div_parent .word_div h1 {
+        font-size: 8vw;
+    }
+    .speaker {
+        width: 15%;
+    }
+    .word_div_two {
+        font-size: 5vw;
+    }    
+    .meaning {
+        font-size: 7vw;
+    }
+    .words_div input {
+        width: 50%;
+        font-size: 6vw;
+    }
 }
