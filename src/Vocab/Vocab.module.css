@@ -30,6 +30,7 @@
     width: 66%;
     overflow-y: auto;
     cursor: pointer;
+    margin-bottom: 4rem;
 }
 
 .word_div_parent {
@@ -62,6 +63,20 @@
     padding-left: 0.5rem;
 }
 
+.emoji {
+    font-size: 10vw;
+    text-align: center;
+}
+
+.back {
+    font-size: 5rem;
+    color: var(--fg-color);
+    position: fixed;
+    margin-left: 0.3rem;
+    bottom: 0;
+    right: 1;
+}
+  
 @media (max-width: 650px) {
     .words_div {
         position: static;
@@ -86,4 +101,8 @@
         width: 50%;
         font-size: 6vw;
     }
+    .emoji {
+        font-size: 40vw;
+    }    
 }
+

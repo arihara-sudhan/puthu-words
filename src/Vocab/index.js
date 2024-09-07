@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
 import styles from "./Vocab.module.css";
 import speaker from "./assets/speaker.png";
 
-export default function Vocab({ letter }) {
+export default function Vocab({ letter , backCallback }) {
     const [meta, setMeta] = useState(null);
     const [filteredMeta, setFilteredMeta] = useState(null);
     const [expandedIndex, setExpandedIndex] = useState(null);
@@ -12,13 +12,13 @@ export default function Vocab({ letter }) {
         const loadMeta = async () => {
             if (cache.current[letter]) {
                 setMeta(cache.current[letter]);
-                setFilteredMeta(cache.current[letter]); // Initialize filteredMeta with full data
+                setFilteredMeta(cache.current[letter]);
             } else {
                 try {
                     const metaModule = await import(`../meta/${letter}.json`);
                     cache.current[letter] = metaModule.default;
                     setMeta(metaModule.default);
-                    setFilteredMeta(metaModule.default); // Initialize filteredMeta with full data
+                    setFilteredMeta(metaModule.default); 
                 } catch (err) {
                     console.error("Error loading meta file:", err);
                 }
@@ -37,9 +37,9 @@ export default function Vocab({ letter }) {
     };
 
     const handleSearch = (e) => {
-        const searchTerm = e.target.value.toLowerCase(); // Normalize input
+        const searchTerm = e.target.value.toLowerCase(); 
         if (!searchTerm) {
-            setFilteredMeta(meta); // Reset to full list if input is empty
+            setFilteredMeta(meta);
         } else {
             const filtered = meta.filter((rec) => rec.word.toLowerCase().startsWith(searchTerm));
             setFilteredMeta(filtered);
@@ -55,6 +55,7 @@ export default function Vocab({ letter }) {
                     onChange={handleSearch}
                 />
             </center>
+            <h1 className={styles.back} onClick={()=>{backCallback()}}>«</h1>
             {filteredMeta && filteredMeta.map((rec, idx) => (
                 <div key={idx} onClick={() => expandDiv(idx)} className={styles.word_div_parent}>
                     <div className={styles.word_div}>
@@ -75,6 +76,7 @@ export default function Vocab({ letter }) {
                             <h4 className={styles.example}>{rec.example_in_tamil}</h4>
                             <h3 className={styles.meaning}>{rec.meaning}</h3>
                             <h4 className={styles.example}>{rec.example}</h4>
+                            <h1 className={styles.emoji}>{rec.emoji}</h1>
                         </div>
                     }
                 </div>
