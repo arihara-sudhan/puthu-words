@@ -1,0 +1,60 @@
+.word_div {
+    margin: 0.51rem 0.51rem 0 0.51rem;
+    padding: 0.1rem 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--fg-color);
+    border-radius: 1rem;
+    font-size: 1.2vw;
+    color: #000;
+}
+
+.speaker {
+    width: 5%;
+    transition: transform 0.2s ease;
+}
+
+.speaker:hover {
+    transform: scale(1.2);
+}
+
+.words_div {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 66%;
+    overflow-y: auto;
+}
+
+.word_div_parent {
+    background-color: var(--fg-color);
+    color: #000;
+    margin: 0.61rem;
+    border-radius: 0.5rem;
+    font-size: 1.1vw;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+}
+
+.word_div_two {
+    padding: 1rem;
+    font-size: 1.2vw;
+}
+
+.meaning {
+    color: var(--bg-color);
+    font-size: 2vw;
+}
+
+.words_div input {
+    margin-top: 0.41rem;
+    padding: 0.21rem;
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding-left: 0.5rem;
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "word": "Babble",
+        "meaning": "To talk rapidly and continuously in a foolish, excited, or incomprehensible way.",
+        "example": "Esakki started to babble when he was asked to tell a story.",
+        "example_in_tamil": "ஒரு கதை சொல்லுமாறு கேட்டபோது, இசக்கி பிதற்றத்தொடங்கினான்.",
+        "meaning_in_tamil": "பிதற்று",
+        "emoji": "🫤"
+    },
+    {
+        "word": "Back",
+        "meaning": "To support or endorse.",
+        "example": "Ari backs Jallikattu, which is a significant part of Tamil culture.",
+        "example_in_tamil": "தமிழ் கலாச்சாரத்தின் முக்கியத்துவம் வாய்ந்த ஏறுதழுவலை, அரி ஆதரிக்கிறான்.",
+        "meaning_in_tamil": "ஆதரவளி",
+        "emoji": "🐂"
+    },
+    {
+        "word": "Backbite",
+        "meaning": "To speak unfavorably about someone not present.",
+        "example": "I'm not short-tempered, but I do get annoyed if friends backbite me.",
+        "example_in_tamil": "நான் முன் கோபக்காரன் அல்லன்! ஆனால், என் நண்பர்கள் எனைக்குறித்து புறங்கூறினால், நான் எரிச்சலடைவேன்.",
+        "meaning_in_tamil": "இல்லாத நேரத்தில் தவறாக பேசு/புறங்கூறு",
+        "emoji": "😠"
+    },
+    {
+        "word": "Backbreaking",
+        "meaning": "Requiring a lot of physical effort.",
+        "example": "It’s a backbreaking task to climb Thoranamalai Hill, but the view from the top makes it all worthwhile.",
+        "example_in_tamil": "தோரணமலை ஏறுவது, அதிக உடலுழைப்பு மிகுந்த வேலை! இருப்பினும், அதன் உச்சியிலிருந்து கிடைக்கும் காட்சி, அதை அதற்கேற்ற மதிப்புடையதாக்குகிறது.",
+        "meaning_in_tamil": "அதிக உடல் உழைப்பு தேவையான",
+        "emoji": "⛰️"
+    },
+    {
+        "word": "Backslapping",
+        "meaning": "Heartfelt praise or congratulations.",
+        "example": "The team’s victory led to a lot of backslapping among the players and their supporters.",
+        "example_in_tamil": "அணியின் வெற்றி, அதன் விளையாட்டு வீரர்கள் மற்றும் ஆதரவாளர்களிடையே, பெரும் பாராட்டிற்கு வழிவகுத்தது.",
+        "meaning_in_tamil": "இதயங்கனிந்த பாராட்டு",
+        "emoji": "👏"
+    }
+]
