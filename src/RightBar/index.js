@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import Vocab from '../Vocab';
-import Attribution from '../Attribution';
 import style from "./RightBar.module.css";
 import meta from './meta.json';
 
@@ -23,7 +22,6 @@ export default function RightBar() {
             ) : (
                 <Vocab letter={letter}/>
             )}
-            <Attribution/>
         </div>
     );
 }
