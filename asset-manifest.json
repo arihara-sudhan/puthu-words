@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/puthu-words/static/css/main.b7e2e348.css",
-    "main.js": "/puthu-words/static/js/main.30177372.js",
-    "static/js/480.e5e67326.chunk.js": "/puthu-words/static/js/480.e5e67326.chunk.js",
-    "static/js/869.2b3798fb.chunk.js": "/puthu-words/static/js/869.2b3798fb.chunk.js",
-    "static/js/426.e66b92e7.chunk.js": "/puthu-words/static/js/426.e66b92e7.chunk.js",
-    "static/js/895.6fc94945.chunk.js": "/puthu-words/static/js/895.6fc94945.chunk.js",
-    "static/js/812.16299e01.chunk.js": "/puthu-words/static/js/812.16299e01.chunk.js",
-    "static/js/241.6d58c53b.chunk.js": "/puthu-words/static/js/241.6d58c53b.chunk.js",
-    "static/js/534.55ebddfe.chunk.js": "/puthu-words/static/js/534.55ebddfe.chunk.js",
-    "static/js/91.de16caea.chunk.js": "/puthu-words/static/js/91.de16caea.chunk.js",
-    "static/js/584.ba668ff2.chunk.js": "/puthu-words/static/js/584.ba668ff2.chunk.js",
-    "static/js/365.b07a205f.chunk.js": "/puthu-words/static/js/365.b07a205f.chunk.js",
-    "static/js/738.4610f434.chunk.js": "/puthu-words/static/js/738.4610f434.chunk.js",
-    "static/js/351.2f12fb00.chunk.js": "/puthu-words/static/js/351.2f12fb00.chunk.js",
+    "main.js": "/puthu-words/static/js/main.12ef5ff6.js",
+    "static/js/480.9b0dd7e4.chunk.js": "/puthu-words/static/js/480.9b0dd7e4.chunk.js",
+    "static/js/869.62868ac7.chunk.js": "/puthu-words/static/js/869.62868ac7.chunk.js",
+    "static/js/426.6b5857ca.chunk.js": "/puthu-words/static/js/426.6b5857ca.chunk.js",
+    "static/js/895.e87e8272.chunk.js": "/puthu-words/static/js/895.e87e8272.chunk.js",
+    "static/js/812.8db6cddd.chunk.js": "/puthu-words/static/js/812.8db6cddd.chunk.js",
+    "static/js/241.f6ba9fdb.chunk.js": "/puthu-words/static/js/241.f6ba9fdb.chunk.js",
+    "static/js/534.3847280a.chunk.js": "/puthu-words/static/js/534.3847280a.chunk.js",
+    "static/js/91.e20db9a7.chunk.js": "/puthu-words/static/js/91.e20db9a7.chunk.js",
+    "static/js/584.edff3dd3.chunk.js": "/puthu-words/static/js/584.edff3dd3.chunk.js",
+    "static/js/365.f6db2c3a.chunk.js": "/puthu-words/static/js/365.f6db2c3a.chunk.js",
+    "static/js/738.727a792a.chunk.js": "/puthu-words/static/js/738.727a792a.chunk.js",
+    "static/js/351.080b3194.chunk.js": "/puthu-words/static/js/351.080b3194.chunk.js",
     "static/media/leftbar-img.png": "/puthu-words/static/media/leftbar-img.85718f3ec1cb416fb0f5.png",
     "index.html": "/puthu-words/index.html",
     "main.b7e2e348.css.map": "/puthu-words/static/css/main.b7e2e348.css.map",
-    "main.30177372.js.map": "/puthu-words/static/js/main.30177372.js.map"
+    "main.12ef5ff6.js.map": "/puthu-words/static/js/main.12ef5ff6.js.map"
   },
   "entrypoints": [
     "static/css/main.b7e2e348.css",
-    "static/js/main.30177372.js"
+    "static/js/main.12ef5ff6.js"
   ]
 }
