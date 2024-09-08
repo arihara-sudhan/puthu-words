@@ -17,6 +17,10 @@
     width: 100%;
 }
 
+.rightbar::-webkit-scrollbar {
+    display: none;
+}
+
 .rightbar div {
     border: 1px solid var(--fg-color);
     width: 20%;
