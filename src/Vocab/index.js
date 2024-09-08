@@ -48,14 +48,13 @@ export default function Vocab({ letter , backCallback }) {
 
     return (
         <div className={styles.words_div}>
-            <center>
                 <input 
                     type='text' 
                     placeholder='Search a word...' 
                     onChange={handleSearch}
                 />
-            </center>
             <h1 className={styles.back} onClick={()=>{backCallback()}}>«</h1>
+            <div className={styles.word_parent}>
             {filteredMeta && filteredMeta.map((rec, idx) => (
                 <div key={idx} onClick={() => expandDiv(idx)} className={styles.word_div_parent}>
                     <div className={styles.word_div}>
@@ -81,6 +80,7 @@ export default function Vocab({ letter , backCallback }) {
                     }
                 </div>
             ))}
+            </div>
         </div>
     );
 }

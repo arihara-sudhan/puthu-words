@@ -1,18 +1,17 @@
 .rightbar_parent {
-    padding-top: 4rem;
     position: fixed;
     right: 0;
-    top: 0;
-    bottom: 0;
     width: 66%;
-    overflow-y: auto;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .rightbar {
+    height: 100vh;
+    overflow-y: auto;
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     background-color: var(--bg-color);
     width: 100%;
@@ -24,7 +23,7 @@
     padding: 1rem;
     margin: 1rem;
     border-radius: 1rem;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.5s ease;
     background-color: var(--bg-color);
 }
 
@@ -47,19 +46,19 @@
 
 @media (max-width:650px) {
     .rightbar_parent {
-        padding-top: 1rem;
         position: static;
         width: 100%;
-        margin-bottom: 1rem;
-        margin-left: 1.7rem;
+        margin-bottom: 3rem;
     }
     .rightbar {
+        width: 100%;
+    }
+    .rightbar div {
         display: flex;
         justify-content: center;
         align-items: center;
-    }
-    .rightbar div {
-        width: 10%;
-        margin: 1%;
+        height: 10%;
+        width: 15%;
+        margin: 1rem;
     }
 }

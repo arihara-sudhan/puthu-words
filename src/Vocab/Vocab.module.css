@@ -1,35 +1,28 @@
-.word_div {
-    margin: 0.51rem 0.51rem 0 0.51rem;
-    padding: 0.1rem 0;
-    display: flex;
-    justify-content: space-between;
-    background-color: var(--fg-color);
-    border-radius: 1rem;
-    font-size: 1.2vw;
-    color: #000;
-    cursor: crosshair;
-}
-
-
-.speaker {
-    width: 5%;
-    transition: transform 0.2s ease;
-}
-
-.speaker:hover {
-    transform: scale(1.2);
-}
-
 .words_div {
     display: flex;
     flex-direction: column;
+    justify-content: left;
+    align-items: center;
     position: fixed;
     right: 0;
     top: 0;
     bottom: 0;
     width: 66%;
+}
+
+.word_parent {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
     overflow-y: auto;
-    cursor: pointer;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.word_parent::-webkit-scrollbar {
+    display: none;
 }
 
 .word_div_parent {
@@ -38,9 +31,33 @@
     margin: 0.40rem;
     border-radius: 0.5rem;
     font-size: 1.1vw;
-    width: 95%;
+    width: 90%;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.word_div {
+    margin: 0.51rem 0.51rem 0 0.51rem;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--fg-color);
+    border-radius: 1rem;
+    font-size: 1vw;
+    color: #000;
+    cursor: crosshair;
+    width: 90%;
+}
+
+.speaker {
+    width: 5%;
+    transition: transform 0.2s ease;
+}
+
+.speaker:active {
+    transform: scale(1.2);
 }
 
 .word_div_two {
@@ -61,6 +78,7 @@
     border: none;
     border-radius: 1rem;
     padding-left: 0.5rem;
+    text-align: center;
 }
 
 .emoji {
@@ -81,17 +99,20 @@
 @media (max-width: 650px) {
     .words_div {
         position: static;
-        width: 100%;
-        margin-left: 0.2rem;
+        width: 95%;
+        margin-bottom: 6rem;
+    }
+    .word_parent {
+        overflow: hidden;
     }
     .word_div_parent {
-        width: 90%;
+        width: 100%;
     }
     .word_div_parent .word_div h1 {
-        font-size: 8vw;
+        font-size: 6vw;
     }
     .speaker {
-        width: 15%;
+        width: 10%;
     }
     .word_div_two {
         font-size: 5vw;
@@ -100,10 +121,11 @@
         font-size: 7vw;
     }
     .words_div input {
-        width: 50%;
+        margin-top: 1rem;
+        width: 70%;
         font-size: 6vw;
     }
     .emoji {
-        font-size: 40vw;
+        font-size: 50vw;
     }    
 }
