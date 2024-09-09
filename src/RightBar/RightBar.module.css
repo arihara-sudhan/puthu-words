@@ -68,11 +68,27 @@
     .rightbar_parent {
         width: 445px;
     }
+    .rightbar div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        width: 10%;
+        margin: 1rem;
+    }
 }
 
 @media (max-width:390px) {
     .rightbar_parent {
         width: 420px;
+    }
+    .rightbar div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        width: 10%;
+        margin: 1rem;
     }
 }
 
@@ -80,16 +96,40 @@
     .rightbar_parent {
         width: 405px;
     }
+    .rightbar div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        width: 10%;
+        margin: 1rem;
+    }
 }
 
 @media (max-width:370px) {
     .rightbar_parent {
         width: 390px;
     }
+    .rightbar div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        width: 10%;
+        margin: 1rem;
+    }
 }
 
 @media (max-width:344px) {
     .rightbar_parent {
         width: 375px;
+    }
+    .rightbar div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        width: 5%;
+        margin: 1rem;
     }
 }
