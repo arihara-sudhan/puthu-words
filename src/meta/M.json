@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   {
       "word": "Macabre",
       "meaning": "Disturbing because concerned with death or injury.",
@@ -39,4 +40,46 @@
       "meaning_in_tamil": "ஆண்மையில் பெருமையுடைய",
       "emoji": "💪"
   }
+=======
+    {
+        "word": "Macabre",
+        "meaning": "Disturbing because concerned with death or injury.",
+        "example": "It’s macabre to imagine falling into the sea from a ship at night, because no one would be able to find you in the darkness.",
+        "example_in_tamil": "இருட்டில் யாராலும் நம்மை காணவியலாது என்பதால், இரவு நேரத்தில் கப்பலிலிருந்து கடலில் விழுவதை எண்ணவே மனம் பயத்தால் நோகுகிறது.",
+        "meaning_in_tamil": "மரணம் அல்லது காயப்படுத்துவதற்கு ஏதுவாகயிருந்து மனநோகல்/தொல்லையளிக்கின்ற",
+        "emoji": "💀"
+    },
+    {
+        "word": "Macerate",
+        "meaning": "To soften food by soaking it in liquid.",
+        "example": "Ari likes to eat macerated rice for grinding before making dosa.",
+        "example_in_tamil": "அரி, தோசை சுடுவதற்கு முன், அரைப்பதற்காக ஊறவைத்த அரிசியை தின்ன விரும்புகிறான்.",
+        "meaning_in_tamil": "ஊற வை",
+        "emoji": "🍚"
+    },
+    {
+        "word": "Machination",
+        "meaning": "A scheme or plot, typically one that is crafty or sinister.",
+        "example": "Esakki is good at machinations.",
+        "example_in_tamil": "சகுனி வேலைகளில், இசக்கி மாச்சிறந்தவன்.",
+        "meaning_in_tamil": "சதித்திட்டம்",
+        "emoji": "🃏"
+    },
+    {
+        "word": "Machismo",
+        "meaning": "Strong or aggressive male pride.",
+        "example": "Some people are high in machismo without realizing that, without women, there can’t be men.",
+        "example_in_tamil": "பெண்ணில்லையேல், ஆணில்லை என்றுணராத சிலர், ஆண்மையின் பெருமை மிகைத்துள்ளனர்.",
+        "meaning_in_tamil": "ஆண்மையின் பெருமை",
+        "emoji": "👨🏻"
+    },
+    {
+        "word": "Macho",
+        "meaning": "Feeling proud of masculinity.",
+        "example": "Some wrestlers are macho.",
+        "example_in_tamil": "சில மல்யுத்தவீரர்கள், ஆண்மையில் அதிக பெருமையுள்ளவர்கள்.",
+        "meaning_in_tamil": "ஆண்மையில் பெருமையுடைய",
+        "emoji": "💪"
+    }
+>>>>>>> 2630345d2068067837e156de42c184a227f75f6a
 ]
