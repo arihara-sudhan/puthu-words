@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/puthu-words/static/css/main.e3ce73eb.css",
-    "main.js": "/puthu-words/static/js/main.02f4eb09.js",
+    "main.js": "/puthu-words/static/js/main.a903f29d.js",
     "static/js/480.9b0dd7e4.chunk.js": "/puthu-words/static/js/480.9b0dd7e4.chunk.js",
     "static/js/869.62868ac7.chunk.js": "/puthu-words/static/js/869.62868ac7.chunk.js",
     "static/js/426.6b5857ca.chunk.js": "/puthu-words/static/js/426.6b5857ca.chunk.js",
@@ -15,13 +15,14 @@
     "static/js/738.727a792a.chunk.js": "/puthu-words/static/js/738.727a792a.chunk.js",
     "static/js/351.080b3194.chunk.js": "/puthu-words/static/js/351.080b3194.chunk.js",
     "static/js/812.11fbcad8.chunk.js": "/puthu-words/static/js/812.11fbcad8.chunk.js",
+    "static/js/713.4d4fc77a.chunk.js": "/puthu-words/static/js/713.4d4fc77a.chunk.js",
     "static/media/leftbar-img.png": "/puthu-words/static/media/leftbar-img.85718f3ec1cb416fb0f5.png",
     "index.html": "/puthu-words/index.html",
     "main.e3ce73eb.css.map": "/puthu-words/static/css/main.e3ce73eb.css.map",
-    "main.02f4eb09.js.map": "/puthu-words/static/js/main.02f4eb09.js.map"
+    "main.a903f29d.js.map": "/puthu-words/static/js/main.a903f29d.js.map"
   },
   "entrypoints": [
     "static/css/main.e3ce73eb.css",
-    "static/js/main.02f4eb09.js"
+    "static/js/main.a903f29d.js"
   ]
 }
