@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/puthu-words/static/css/main.1c1a25b3.css",
-    "main.js": "/puthu-words/static/js/main.07467be7.js",
+    "main.js": "/puthu-words/static/js/main.90321373.js",
     "static/js/480.9b0dd7e4.chunk.js": "/puthu-words/static/js/480.9b0dd7e4.chunk.js",
     "static/js/869.62868ac7.chunk.js": "/puthu-words/static/js/869.62868ac7.chunk.js",
     "static/js/426.6b5857ca.chunk.js": "/puthu-words/static/js/426.6b5857ca.chunk.js",
     "static/js/895.e87e8272.chunk.js": "/puthu-words/static/js/895.e87e8272.chunk.js",
     "static/js/431.0e8c4fe1.chunk.js": "/puthu-words/static/js/431.0e8c4fe1.chunk.js",
     "static/js/241.f6ba9fdb.chunk.js": "/puthu-words/static/js/241.f6ba9fdb.chunk.js",
-    "static/js/534.3847280a.chunk.js": "/puthu-words/static/js/534.3847280a.chunk.js",
+    "static/js/505.94a5514c.chunk.js": "/puthu-words/static/js/505.94a5514c.chunk.js",
     "static/js/91.e20db9a7.chunk.js": "/puthu-words/static/js/91.e20db9a7.chunk.js",
     "static/js/584.edff3dd3.chunk.js": "/puthu-words/static/js/584.edff3dd3.chunk.js",
     "static/js/365.f6db2c3a.chunk.js": "/puthu-words/static/js/365.f6db2c3a.chunk.js",
@@ -24,13 +24,14 @@
     "static/js/551.84d0ec2e.chunk.js": "/puthu-words/static/js/551.84d0ec2e.chunk.js",
     "static/js/180.f3b6a1b1.chunk.js": "/puthu-words/static/js/180.f3b6a1b1.chunk.js",
     "static/js/529.1841b994.chunk.js": "/puthu-words/static/js/529.1841b994.chunk.js",
+    "static/js/534.e3e459bf.chunk.js": "/puthu-words/static/js/534.e3e459bf.chunk.js",
     "static/media/leftbar-img.png": "/puthu-words/static/media/leftbar-img.85718f3ec1cb416fb0f5.png",
     "index.html": "/puthu-words/index.html",
     "main.1c1a25b3.css.map": "/puthu-words/static/css/main.1c1a25b3.css.map",
-    "main.07467be7.js.map": "/puthu-words/static/js/main.07467be7.js.map"
+    "main.90321373.js.map": "/puthu-words/static/js/main.90321373.js.map"
   },
   "entrypoints": [
     "static/css/main.1c1a25b3.css",
-    "static/js/main.07467be7.js"
+    "static/js/main.90321373.js"
   ]
 }
