@@ -46,6 +46,7 @@
     justify-content: space-around;
     flex-direction: row-reverse;
     padding: 1%;
+    margin-bottom: 0.3rem;
   }  
   .leftbar img {
     width: 30%;
