@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/puthu-words/static/css/main.1c1a25b3.css",
+    "main.css": "/puthu-words/static/css/main.af21506a.css",
     "main.js": "/puthu-words/static/js/main.90321373.js",
     "static/js/480.9b0dd7e4.chunk.js": "/puthu-words/static/js/480.9b0dd7e4.chunk.js",
     "static/js/869.62868ac7.chunk.js": "/puthu-words/static/js/869.62868ac7.chunk.js",
@@ -27,11 +27,11 @@
     "static/js/534.e3e459bf.chunk.js": "/puthu-words/static/js/534.e3e459bf.chunk.js",
     "static/media/leftbar-img.png": "/puthu-words/static/media/leftbar-img.85718f3ec1cb416fb0f5.png",
     "index.html": "/puthu-words/index.html",
-    "main.1c1a25b3.css.map": "/puthu-words/static/css/main.1c1a25b3.css.map",
+    "main.af21506a.css.map": "/puthu-words/static/css/main.af21506a.css.map",
     "main.90321373.js.map": "/puthu-words/static/js/main.90321373.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c1a25b3.css",
+    "static/css/main.af21506a.css",
     "static/js/main.90321373.js"
   ]
 }
