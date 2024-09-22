@@ -96,11 +96,10 @@
     left: 0;
 }
   
-@media (max-width: 650px) {
+@media screen and (max-width: 700px) {
     .words_div {
         position: static;
         width: 95%;
-        margin-bottom: 6rem;
     }
     .word_parent {
         overflow: hidden;
@@ -109,7 +108,7 @@
         width: 100%;
     }
     .word_div_parent .word_div h1 {
-        font-size: 6vw;
+        font-size: 5vw;
     }
     .speaker {
         width: 10%;
@@ -121,11 +120,11 @@
         font-size: 7vw;
     }
     .words_div input {
-        margin-top: 1rem;
         width: 70%;
         font-size: 6vw;
     }
     .emoji {
         font-size: 50vw;
+        margin: 0;
     }    
 }

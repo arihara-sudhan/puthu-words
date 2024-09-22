@@ -50,7 +50,7 @@ export default function Vocab({ letter , backCallback }) {
         <div className={styles.words_div}>
                 <input 
                     type='text' 
-                    placeholder='Search a word...' 
+                    placeholder='Search a word.....' 
                     onChange={handleSearch}
                 />
             <h1 className={styles.back} onClick={()=>{backCallback()}}>«</h1>
