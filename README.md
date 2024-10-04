@@ -19,7 +19,6 @@ Lingua Franca-வை, இன்தமிழில் கற்பது இன�
 கற்போம்… 
 அரிகரசுதன்
 
-<h1>Puthu Varthai</h1>
 <h4>Learn New Words Daily!</h4>
 <img src="./meta/ss1.png" alt="" width="100%">
 <h4>The Words are from Oxford Dictionary!</h4>
