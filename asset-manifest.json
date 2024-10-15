@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/puthu-words/static/css/main.8de43a10.css",
-    "main.js": "/puthu-words/static/js/main.35b243d8.js",
+    "main.js": "/puthu-words/static/js/main.280ac6e0.js",
     "static/js/480.3c174dff.chunk.js": "/puthu-words/static/js/480.3c174dff.chunk.js",
     "static/js/869.7a5bdd3f.chunk.js": "/puthu-words/static/js/869.7a5bdd3f.chunk.js",
     "static/js/426.6b5857ca.chunk.js": "/puthu-words/static/js/426.6b5857ca.chunk.js",
@@ -13,11 +13,11 @@
     "static/js/584.5ddbb65b.chunk.js": "/puthu-words/static/js/584.5ddbb65b.chunk.js",
     "static/js/365.f6db2c3a.chunk.js": "/puthu-words/static/js/365.f6db2c3a.chunk.js",
     "static/js/738.7563d811.chunk.js": "/puthu-words/static/js/738.7563d811.chunk.js",
-    "static/js/351.080b3194.chunk.js": "/puthu-words/static/js/351.080b3194.chunk.js",
-    "static/js/812.11fbcad8.chunk.js": "/puthu-words/static/js/812.11fbcad8.chunk.js",
-    "static/js/713.b2f30eb8.chunk.js": "/puthu-words/static/js/713.b2f30eb8.chunk.js",
-    "static/js/278.9c5befff.chunk.js": "/puthu-words/static/js/278.9c5befff.chunk.js",
-    "static/js/571.635d3feb.chunk.js": "/puthu-words/static/js/571.635d3feb.chunk.js",
+    "static/js/351.a3b218d1.chunk.js": "/puthu-words/static/js/351.a3b218d1.chunk.js",
+    "static/js/812.f278df3f.chunk.js": "/puthu-words/static/js/812.f278df3f.chunk.js",
+    "static/js/713.b2404e4f.chunk.js": "/puthu-words/static/js/713.b2404e4f.chunk.js",
+    "static/js/278.1313b96b.chunk.js": "/puthu-words/static/js/278.1313b96b.chunk.js",
+    "static/js/571.ff61f358.chunk.js": "/puthu-words/static/js/571.ff61f358.chunk.js",
     "static/js/632.70394e8e.chunk.js": "/puthu-words/static/js/632.70394e8e.chunk.js",
     "static/js/789.d4766a82.chunk.js": "/puthu-words/static/js/789.d4766a82.chunk.js",
     "static/js/730.41d74bb0.chunk.js": "/puthu-words/static/js/730.41d74bb0.chunk.js",
@@ -31,10 +31,10 @@
     "static/media/leftbar-img.png": "/puthu-words/static/media/leftbar-img.85718f3ec1cb416fb0f5.png",
     "index.html": "/puthu-words/index.html",
     "main.8de43a10.css.map": "/puthu-words/static/css/main.8de43a10.css.map",
-    "main.35b243d8.js.map": "/puthu-words/static/js/main.35b243d8.js.map"
+    "main.280ac6e0.js.map": "/puthu-words/static/js/main.280ac6e0.js.map"
   },
   "entrypoints": [
     "static/css/main.8de43a10.css",
-    "static/js/main.35b243d8.js"
+    "static/js/main.280ac6e0.js"
   ]
 }
