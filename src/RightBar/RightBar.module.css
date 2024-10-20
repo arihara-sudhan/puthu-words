@@ -62,5 +62,14 @@
         padding: 6%;
         border-radius: 10%;
     }
+    .word_count {
+        font-size: 4vw;
+        color: var(--bg-color);
+        text-align: center;
+    }
 }
   
+.word_count {
+    font-size: 1vw;
+    color: var(--bg-color);
+}
