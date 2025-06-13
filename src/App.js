@@ -4,7 +4,7 @@ import "./assets/App.css";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <LeftBar/>
       <RightBar/>
     </div>

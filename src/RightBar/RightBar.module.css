@@ -56,14 +56,29 @@
     }  
     .rightbar {
         width: 100%;
-        padding: 0;
+        padding: 1rem;
+        height: auto;
+        margin-top: 0;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 0.8rem;
+        align-content: center;
+        justify-items: center;
     }
     .rightbar div {
-        width: 15%;
-        margin: 2%;
-        padding: 4%;
-        font-size: 7rem;
-        border-radius: 10%;
+        width: 100%;
+        aspect-ratio: 1;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 0.8rem;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .rightbar div h1 {
+        font-size: clamp(1.5rem, 5vw, 2rem);
+        margin: 0;
     }
     .word_count {
         font-size: 4vw;
