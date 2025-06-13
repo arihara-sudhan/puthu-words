@@ -7,14 +7,13 @@
   align-items: center;
   justify-content: center;
   position: fixed;
-  left: 0;
   color: black !important;
   text-align: justify;
   height: 100%;
 }
 
 .leftbar h1 {
-  font-size: 2.7vw;
+  font-size: 2vw;
 }
 
 .leftbar img {
@@ -25,6 +24,7 @@
 .textdiv {
   font-size: 1.6vw;
   width: 80%;
+  margin-bottom: 1rem;
 }
 
 @keyframes slideUp {
@@ -50,6 +50,9 @@
   }  
   .leftbar img {
     width: 30%;
+  }
+  .leftbar h1 {
+    font-size: 1.2rem;
   }
   .textdiv {
     font-size: 3vw;
