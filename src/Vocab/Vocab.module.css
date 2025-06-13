@@ -188,12 +188,27 @@
 
 .words_div input {
     margin: 1rem 0;
-    padding: 0.5rem;
-    width: 50%;
-    border: none;
-    border-radius: 1rem;
-    padding-left: 0.5rem;
-    text-align: center;
+    padding: 0.8rem 1rem 0.8rem 2.5rem;
+    width: 35%;
+    border: 1px solid #e0e0e0;
+    border-radius: 2rem;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'%3E%3C/circle%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'%3E%3C/line%3E%3C/svg%3E") no-repeat 1rem center;
+    background-size: 1.2rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.words_div input:focus {
+    outline: none;
+    border-color: var(--fg-color);
+    box-shadow: 0 0 0 2px rgba(0,0,0,0.05);
+    width: 40%;
+}
+
+.words_div input::placeholder {
+    color: #999;
+    font-style: italic;
 }
 
 .back {
@@ -312,20 +327,19 @@
     }
     
     .words_div input {
-        width: 85%;
+        width: 70%;
         font-size: clamp(1rem, 4vw, 1.4rem);
-        margin: 0.3rem 0;
-        padding: 0.3rem;
-        text-align: center;
-        border: 2px solid #e0e0e0;
-        border-radius: 0.3rem;
-        transition: border-color 0.2s ease, box-shadow 0.2s ease;
+        margin: 0.5rem 0;
+        padding: 0.6rem 1rem 0.6rem 2.2rem;
+        border-radius: 1.5rem;
+        background-size: 1rem;
+        background-position: 0.8rem center;
     }
 
     .words_div input:focus {
-        border-color: #007bff;
-        box-shadow: 0 0 0 2px rgba(0,123,255,0.25);
-        outline: none;
+        width: 75%;
+        border-color: var(--fg-color);
+        box-shadow: 0 0 0 2px rgba(0,0,0,0.05);
     }
 
     /* Word Detail View Styles */
