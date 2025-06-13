@@ -10,3 +10,14 @@ body {
     color: var(--font-color);
 }
 
+@font-face {
+  font-family: 'TamilCustom';
+  src: url('./fonts/tamil (10).ttf') format('truetype');
+  font-weight: lighter;
+  font-style: normal;
+}
+
+.tamil-text {
+  font-family: 'TamilCustom', 'Latha', 'Noto Sans Tamil', sans-serif;
+}
+

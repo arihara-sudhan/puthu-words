@@ -92,9 +92,9 @@ export default function Vocab({ letter, backCallback }) {
                         />
                     </div>
                     <h3>{expandedWord.meaning}</h3>
-                    <h3>{expandedWord.meaning_in_tamil}</h3>
+                    <h3 className="tamil-text">{expandedWord.meaning_in_tamil}</h3>
                     <h4>{expandedWord.example}</h4>
-                    <h4>{expandedWord.example_in_tamil}</h4>
+                    <h4 className="tamil-text">{expandedWord.example_in_tamil}</h4>
                     <h1 className={styles.emoji}>{expandedWord.emoji}</h1>
                 </div>
             )}
