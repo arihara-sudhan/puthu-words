@@ -62,6 +62,7 @@ export default function Vocab({ letter, backCallback }) {
         <div className={styles.words_div}>
             <div className={styles.word_count_container}>
                 <h2>{meta ? `${meta.length} Words` : 'Loading...'}</h2>
+                <span className={styles.back_text} onClick={backCallback}>«BACK</span>
             </div>
             <input
                 type='text'
