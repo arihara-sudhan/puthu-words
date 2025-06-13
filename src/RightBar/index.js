@@ -17,12 +17,15 @@ export default function RightBar() {
                 setFilteredMeta(cache.current[hoveredLetter]);
             } else {
                 try {
-                    const metaModule = await import(`../meta/${hoveredLetter}.json`);
-                    cache.current[hoveredLetter] = metaModule.default;
-                    setMeta(metaModule.default);
-                    setFilteredMeta(metaModule.default);
+                    const metaModule = await import('../meta/all_words.json');
+                    const letterData = metaModule.default[hoveredLetter] || [];
+                    cache.current[hoveredLetter] = letterData;
+                    setMeta(letterData);
+                    setFilteredMeta(letterData);
                 } catch (err) {
                     console.error("Error loading meta file:", err);
+                    setMeta([]);
+                    setFilteredMeta([]);
                 }
             }
         };

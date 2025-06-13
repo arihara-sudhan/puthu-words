@@ -16,12 +16,14 @@ export default function Vocab({ letter, backCallback }) {
             } else {
                 try {
                     const metaModule = await import('../meta/all_words.json');
-                    const letterData = metaModule.default[letter];
+                    const letterData = metaModule.default[letter] || [];
                     cache.current[letter] = letterData;
                     setMeta(letterData);
                     setFilteredMeta(letterData);
                 } catch (err) {
                     console.error("Error loading meta file:", err);
+                    setMeta([]);
+                    setFilteredMeta([]);
                 }
             }
         };
