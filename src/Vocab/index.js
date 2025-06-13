@@ -81,7 +81,6 @@ export default function Vocab({ letter, backCallback }) {
             </div>
             {expandedWord && (
                 <div className={styles.word_div_two}>
-                    <button className={styles.close_button} onClick={() => setExpandedWord(null)}>×</button>
                     <div className={styles.word_header}>
                         <h2 className={styles.word_title}>{expandedWord.word}</h2>
                         <img
@@ -96,6 +95,7 @@ export default function Vocab({ letter, backCallback }) {
                     <h4>{expandedWord.example}</h4>
                     <h4 className="tamil-text">{expandedWord.example_in_tamil}</h4>
                     <h1 className={styles.emoji}>{expandedWord.emoji}</h1>
+                    <button className={styles.close_button} onClick={() => setExpandedWord(null)}>×</button>
                 </div>
             )}
         </div>
