@@ -1,0 +1,1614 @@
+{
+  "A": [
+    {
+      "word": "Aback",
+      "meaning": "To surprise or shock someone",
+      "example": "Ari takes her aback by showing his Tamil Poems.",
+      "example_in_tamil": "அரி, அவனது தமிழ் கவிதைகளை காட்டி, அவளை அதிர்ச்சியடையச் செய்கிறான்.",
+      "meaning_in_tamil": "ஒருவரை அதிர்ச்சியடையச்செய்",
+      "emoji": "😲"
+    },
+    {
+      "word": "Abase",
+      "meaning": "To belittle or degrade someone",
+      "example": "Ari’s intention is not to abase anyone but to encourage all.",
+      "example_in_tamil": "அரியின் எண்ணம், யாரையும் கீழ்மைபடுத்துவதற்கல்லாமல், அனைவரையும் ஊக்குவிக்கவே!",
+      "meaning_in_tamil": "ஒருவரை கீழ்மைபடுத்து",
+      "emoji": "✨"
+    },
+    {
+      "word": "Abash",
+      "meaning": "To feel embarrassed or ashamed",
+      "example": "Ari felt abashed when he realised that he had been speaking with a spinach stuck in his teeth.",
+      "example_in_tamil": "தனது பற்களில் கீரை (Spinach) சிக்கியவாறே பேசிக்கொண்டிருந்ததை உணர்ந்ததும், அரி வெட்கப்பட்டான்.",
+      "meaning_in_tamil": "வெட்கமடை",
+      "emoji": "🫣"
+    },
+    {
+      "word": "Abate",
+      "meaning": "To reduce in amount, degree, or intensity",
+      "example": "The intensity of the waves abated in Kanyakumari, leading to safer conditions for the fishermen to return to the shore.",
+      "example_in_tamil": "கன்னியாகுமரியில், அலைகளின் சீற்றம் குறைந்தது, மீனவர்கள் கரைக்கு திரும்ப உகந்த சூழ்நிலைக்கு வித்திடுகிறது.",
+      "meaning_in_tamil": "அளவு/செறிவு குறை",
+      "emoji": "⛵️"
+    },
+    {
+      "word": "Abdicate",
+      "meaning": "To formally give up a position of power or responsibility",
+      "example": "The king, Arimarthana Pandiyan decided to abdicate his role in favor of his eldest son.",
+      "example_in_tamil": "மன்னர், அரிமர்த்தன பாண்டியன், தனது மூத்த மகனுக்காக, பதவி விலக முடிவெடுத்தார்.",
+      "meaning_in_tamil": "பதவியை துற",
+      "emoji": "👑"
+    },
+    {
+      "word": "Aberrant",
+      "meaning": "Not normal or acceptable",
+      "example": "Esakki behaved aberrantly when he was asked to dance like Madonna.",
+      "example_in_tamil": "மடோன்னாவை போல ஆடுமாறு கேட்டுக்கொண்டபோது, இசக்கி அசாதாரணமாக நடந்துகொண்டான்.",
+      "meaning_in_tamil": "அசாதாரணமான / ஏற்றுக்கொள்ளமுடியாத",
+      "emoji": "🕺"
+    },
+    {
+      "word": "Abet",
+      "meaning": "To encourage or help someone to do something wrong",
+      "example": "Antony was accused of abetting the thief in the robbery.",
+      "example_in_tamil": "கொள்ளையடித்தலில், திருடனுக்கு உதவிய அந்தோனி, கைதுசெய்யப்பட்டான்.",
+      "meaning_in_tamil": "ஒருவரை தவறு செய்ய தூண்டு / உதவு",
+      "emoji": "⛓️‍💥"
+    },
+    {
+      "word": "Abhor",
+      "meaning": "To feel strong hatred for",
+      "example": "Ari abhors dishonesty and avoids people who lie.",
+      "example_in_tamil": "அரி, நேர்மையற்றதை வெறுக்கிறான். மேலும், பொய்யர்களை புறந்தள்ளுகிறான்.",
+      "meaning_in_tamil": "ஒன்றன் மீது வெறுப்புணர்ச்சிக் கொள்",
+      "emoji": "🚫"
+    },
+    {
+      "word": "Abhorrent",
+      "meaning": "Disgusting or Hateful",
+      "example": "Covai Sathasivam finds cruelty to animals absolutely abhorrent.",
+      "example_in_tamil": "விலங்குகளை கொடுமைபடுத்துவதை, கோவை சதாசிவம் முற்றிலும் வெறுக்கத்தக்கதாக எண்ணுகிறார்.",
+      "meaning_in_tamil": "அறுவறுப்பான / வெறுப்பூட்டுகின்ற",
+      "emoji": "🥲"
+    },
+    {
+      "word": "Abide",
+      "meaning": "To accept or obey",
+      "example": "Mr. Bean cannot abide the cacophony coming from the construction site.",
+      "example_in_tamil": "கட்டுமான பகுதியிலிருந்து வரும் இரைச்சலை, திரு.அவரைக்காய் அவர்களால் ஏற்றுக்கொள்ள முடியவில்லை.",
+      "meaning_in_tamil": "ஒன்றனை ஏற்றுக்கொள்",
+      "emoji": "🚧"
+    },
+    {
+      "word": "Adept",
+      "meaning": "Highly skilled or proficient at something",
+      "example": "I am adept at writing Tamil poems, while Esakki is adept at lying.",
+      "example_in_tamil": "யாம் தமிழ் கவிதைகள் எழுதுவதில் திறம்வாய்ந்திருக்க, இசக்கியோ புளுகுவதில் திறம்வாய்ந்துள்ளான்.",
+      "meaning_in_tamil": "ஒரன்றில் திறம்வாய்ந்த",
+      "emoji": "😂"
+    },
+    {
+      "word": "Arduous",
+      "meaning": "Involving a lot of effort; very difficult and tiring",
+      "example": "It’s arduous to win in the race of technology.",
+      "example_in_tamil": "தொழில்நுட்ப ஓட்டத்தில் வெற்றிப்பெறுவது அதிக முயற்சிக்குரியது.",
+      "meaning_in_tamil": "அதிக முயற்சி தேவையான/கடினமான",
+      "emoji": "🏆"
+    },
+    {
+      "word": "Abject",
+      "meaning": "Extremely bad or unpleasant",
+      "example": "The abject behavior of the corrupt politician is disgusting.",
+      "example_in_tamil": "ஊழல் அரசியல்வாதியின் மோசமான நடத்தை, அருவறுப்பாகவுள்ளது.",
+      "meaning_in_tamil": "மிக மோசமான",
+      "emoji": "🤢"
+    },
+    {
+      "word": "Abjure",
+      "meaning": "To formally reject or renounce something (often a belief)",
+      "example": "Some people have abjured the belief that placing a peacock feather in a book will cause it to produce offspring.",
+      "example_in_tamil": "மயிலிறகை புத்தகத்தினுள் வைத்தால், குட்டிப்போடும் என்ற நம்பிக்கையை சிலர் விட்டுவிட்டனர்.",
+      "meaning_in_tamil": "ஒரு நம்பிக்கையை விடு",
+      "emoji": "🦚"
+    }
+  ],
+  "B": [
+    {
+      "word": "Babble",
+      "meaning": "To talk rapidly and continuously in a foolish, excited, or incomprehensible way",
+      "example": "Esakki started to babble when he was asked to tell a story.",
+      "example_in_tamil": "ஒரு கதை சொல்லுமாறு கேட்டபோது, இசக்கி பிதற்றத்தொடங்கினான்.",
+      "meaning_in_tamil": "பிதற்று",
+      "emoji": "🫤"
+    },
+    {
+      "word": "Back",
+      "meaning": "To support or endorse",
+      "example": "Ari backs Jallikattu, which is a significant part of Tamil culture.",
+      "example_in_tamil": "தமிழ் கலாச்சாரத்தின் முக்கியத்துவம் வாய்ந்த ஏறுதழுவலை, அரி ஆதரிக்கிறான்.",
+      "meaning_in_tamil": "ஆதரவளி",
+      "emoji": "🐂"
+    },
+    {
+      "word": "Backbite",
+      "meaning": "To speak unfavorably about someone not present",
+      "example": "I'm not short-tempered, but I do get annoyed if friends backbite me.",
+      "example_in_tamil": "நான் முன் கோபக்காரன் அல்லன்! ஆனால், என் நண்பர்கள் எனைக்குறித்து புறங்கூறினால், நான் எரிச்சலடைவேன்.",
+      "meaning_in_tamil": "இல்லாத நேரத்தில் தவறாக பேசு/புறங்கூறு",
+      "emoji": "😠"
+    },
+    {
+      "word": "Backbreaking",
+      "meaning": "Requiring a lot of physical effort",
+      "example": "It’s a backbreaking task to climb Thoranamalai Hill, but the view from the top makes it all worthwhile.",
+      "example_in_tamil": "தோரணமலை ஏறுவது, அதிக உடலுழைப்பு மிகுந்த வேலை! இருப்பினும், அதன் உச்சியிலிருந்து கிடைக்கும் காட்சி, அதை அதற்கேற்ற மதிப்புடையதாக்குகிறது.",
+      "meaning_in_tamil": "அதிக உடல் உழைப்பு தேவையான",
+      "emoji": "⛰️"
+    },
+    {
+      "word": "Backslapping",
+      "meaning": "Heartfelt praise or congratulations",
+      "example": "The team’s victory led to a lot of backslapping among the players and their supporters.",
+      "example_in_tamil": "அணியின் வெற்றி, அதன் விளையாட்டு வீரர்கள் மற்றும் ஆதரவாளர்களிடையே, பெரும் பாராட்டிற்கு வழிவகுத்தது.",
+      "meaning_in_tamil": "இதயங்கனிந்த பாராட்டு",
+      "emoji": "👏"
+    },
+    {
+      "word": "Backslide",
+      "meaning": "Return to former bad ways",
+      "example": "After months of healthy eating, Esakki began to backslide into his old habits of eating junk food.",
+      "example_in_tamil": "பல மாதங்கள் நல்லுணவு உண்ட பிறகு, இசக்கி மீண்டும் துரித உணவிற்கு திரும்பினான்.",
+      "meaning_in_tamil": "பழைய கெட்ட வழிகளுக்கு திரும்பு",
+      "emoji": "🌮"
+    },
+    {
+      "word": "Back Stabbing",
+      "meaning": "The action of criticising / betraying someone while pretending to be friendly",
+      "example": "I have never backstabbed Esakki.",
+      "example_in_tamil": "இசக்கிக்கு நான் ஒரு போதும் நட்பு துரோகம் செய்தது இல்லை.",
+      "meaning_in_tamil": "நட்பு போலவே நடித்து ஒருவரை விமர்சித்தல் / ஏமாற்றுதல் / துரோகஞ்செய்தல்",
+      "emoji": "⛓️‍💥"
+    },
+    {
+      "word": "Badinage",
+      "meaning": "A witty conversation",
+      "example": "The badinage between Ari and Esakki kept the mood light during the long journey to Muthu Malaiyamman Temple at Mukkudal.",
+      "example_in_tamil": "அரிக்கும் இசக்கிக்குமிருந்த உற்சாக பேச்சு, அவர்கள் முக்கூடல் முத்துமாலையம்மன் கோயிலுக்கு செல்லும்போதான மனநிலையை இலகுவாக வைத்தது.",
+      "meaning_in_tamil": "அறிவாற்றலும் நகைச்சுவையும் மிகுந்த பேச்சு",
+      "emoji": "🚶🏻"
+    },
+    {
+      "word": "Bad Mouth",
+      "meaning": "Say unpleasant things about someone",
+      "example": "It is very common to see one politician bad-mouthing another.",
+      "example_in_tamil": "ஓர் அரசியல்வாதி மற்றோர் அரசியல்வாதியைக்குறித்து தகாமல் பேசுவது மிக வாடிக்கை.",
+      "meaning_in_tamil": "ஒருவரைக் குறித்து, தகாதவற்றை கூறு",
+      "emoji": "🎙️"
+    },
+    {
+      "word": "Bad Tempered",
+      "meaning": "Easily angered or annoyed",
+      "example": "Some people are bad-tempered, so we have to be careful.",
+      "example_in_tamil": "சிலர், எளிதில் கோவம் கொள்பவர்கள் ஆதலின், நாம் கவனுத்துடன் இருத்தல் வேண்டும்!",
+      "meaning_in_tamil": "எளிதில் கோவம் அல்லது எரிச்சலடைகின்ற",
+      "emoji": "😤"
+    },
+    {
+      "word": "Benign",
+      "meaning": "Gentle/Kind/Harmless",
+      "example": "There was a benign teacher who taught us about electrons.",
+      "example_in_tamil": "இலத்திரன்களை பற்றி எங்களுக்கு கற்பித்த ஓர் அன்பான ஆசிரியை இருந்தார்கள்.",
+      "meaning_in_tamil": "அன்பான/ஆபத்தற்ற",
+      "emoji": "⚛️"
+    },
+    {
+      "word": "Burgeon",
+      "meaning": "To begin to grow / Increase rapidly",
+      "example": "The garden of glory lilies burgeons in the Karthigai month.",
+      "example_in_tamil": "செங்காந்தள் தோட்டம், கார்த்திகை மாதத்தில் செழிக்கத்தொடங்குகிறது.",
+      "meaning_in_tamil": "வளரத்துவங்கு / அதிகமாகு",
+      "emoji": "🌷"
+    }
+  ],
+  "C": [
+    {
+      "word": "Cachet",
+      "meaning": "Prestige or distinction",
+      "example": "Winning the award for 'Kallikaattu Ithigaasam' added significant cachet to Vairamuthu’s career.",
+      "example_in_tamil": "கள்ளிக்காட்டு இதிகாசத்திற்காக பெற்ற விருது, வைரமுத்துவின் கலைவாழ்வில் குறிப்பிடத்தக்க புகழை சேர்த்தது.",
+      "meaning_in_tamil": "புகழ்/கீர்த்தி/மதிப்பு",
+      "emoji": "✨"
+    },
+    {
+      "word": "Cackle",
+      "meaning": "To laugh loudly and in a high-pitched manner",
+      "example": "Ari cackled at the joke Esakki made, unable to contain his amusement.",
+      "example_in_tamil": "இசக்கி செய்த நகைச்சுவையில், சிரிப்பை அடக்கமுடியாமல் அரி, பயங்கரமாக சிரித்தான்.",
+      "meaning_in_tamil": "முப்பத்திரெண்டு பல்லும் தெரியுமாறு சிரி/பலமாக சிரி",
+      "emoji": "🤣"
+    },
+    {
+      "word": "Cacophony",
+      "meaning": "A harsh, discordant mixture of sounds",
+      "example": "The market of Dholakpur was filled with the cacophony of people shouting and vehicles honking.",
+      "example_in_tamil": "டோலக்பூர் சந்தை, மக்கள் மற்றும் வாகன இரைச்சல் சத்தத்தால் நிரம்பியது.",
+      "meaning_in_tamil": "இரைச்சல்களின் தொகுப்பு",
+      "emoji": "🔊"
+    },
+    {
+      "word": "Cad",
+      "meaning": "A man who behaves dishonorably or contemptibly",
+      "example": "Everyone was shocked when they found out that the politician was actually a cad.",
+      "example_in_tamil": "அரசியல்வாதி ஒரு தீங்குபிடித்தவன் என கண்டுபிடித்தபோது, அனைவரும் அதிர்ச்சியடைந்தனர்.",
+      "meaning_in_tamil": "போக்கிரி/தீநடத்தைக்காரன்",
+      "emoji": "😬"
+    },
+    {
+      "word": "Cadge",
+      "meaning": "To obtain something without paying for it",
+      "example": "Esakki always cadges free Parotta from Tenkasi Parotta Shop.",
+      "example_in_tamil": "இசக்கி எப்போதும் தென்காசி பரோட்டா கடையில் இலவசமாக பரோட்டா வாங்குவான்.",
+      "meaning_in_tamil": "இலவசமாக ஒன்றனை வாங்கு",
+      "emoji": "🥞"
+    },
+    {
+      "word": "Concur",
+      "meaning": "To agree or have the same opinion",
+      "example": "I don’t concur with the superstitions.",
+      "example_in_tamil": "மூடநம்பிக்கைகளோடு நான் ஒத்துப்போவதில்லை!",
+      "meaning_in_tamil": "ஏற்றுக்கொள் / ஒன்றோடு ஒத்துப்போ",
+      "emoji": "👎"
+    },
+    {
+      "word": "Chronic",
+      "meaning": "Persisting for a long time or constantly recurring, often referring to an illness or problem",
+      "example": "Corruption is the chronic problem in Tamil Nadu.",
+      "example_in_tamil": "தமிழ்நாட்டின் நீண்டகாலத்திய பிரச்சினை, ஊழல்தான்!",
+      "meaning_in_tamil": " நீண்டகாலத்திய (நோயை பொதுவாக குறித்திட)",
+      "emoji": "👎"
+    }
+  ],
+  "D": [
+    {
+      "word": "Dab",
+      "meaning": "To lightly touch or apply a small amount",
+      "example": "Dora decided to dab beetroot on her lips instead of lipstick.",
+      "example_in_tamil": "உதட்டுச்சாயத்திற்கு பதிலாக, தன் உதடுகளில் செங்கிழங்கை தடவ டோரா முடிவுசெய்தாள்.",
+      "meaning_in_tamil": "மெல்ல தடவு",
+      "emoji": "💄"
+    },
+    {
+      "word": "Dabble",
+      "meaning": "To take part in an activity in a casual or superficial way",
+      "example": "Ari used to dabble in cooking on weekends and no one eats the food he cooks.",
+      "example_in_tamil": "வாரமுடிவு நாட்களில், அரி சமையலில் மேலோட்டமாக ஈடுபடுவதுண்டு. மேலும், அவன் சமைக்கும் உணவை யாரும் உண்பதில்லை.",
+      "meaning_in_tamil": "ஒன்றில் முழுவதும் ஈடுபடாமல், சிறிது மட்டும் பங்காற்று",
+      "emoji": "👨🏻‍🍳"
+    },
+    {
+      "word": "Dab Hand",
+      "meaning": "An expert or skilled person in a particular area",
+      "example": "Karan is a dab hand at React and Flutter, so everyone in the company turns to him with their doubts.",
+      "example_in_tamil": "கரண், React மற்றும் Flutter முதலானவற்றில் கைதேர்ந்தவன் என்பதால், நிறுவனத்திலுள்ள யாவரும் தங்கள் சந்தேகங்களோடு, அவனிடமே செல்கின்றனர்.",
+      "meaning_in_tamil": "ஒன்றில் கைதேர்ந்த ஒருவர்",
+      "emoji": "💡"
+    },
+    {
+      "word": "Daffy",
+      "meaning": "Silly or foolish",
+      "example": "Deva’s daffy approach to studying, like reading comic books instead of his notes, might explain why he got low marks—16 out of 30.",
+      "example_in_tamil": "குறிப்புகளை விட்டுவிட்டு, கதை புத்தகங்களை படித்த தேவாவின் சில்லறைத்தனமான படிப்பு முறையே, அவன் ஏன் 30க்கு, 16 மதிப்பெண்கள் எடுத்தான் என்பதற்கு விளக்கம் சொல்லும்.",
+      "meaning_in_tamil": "சில்லறைத்தனமான",
+      "emoji": "📝"
+    },
+    {
+      "word": "Daft",
+      "meaning": "Silly or foolish",
+      "example": "It was a daft idea to go hiking in the month of Karthigai without checking the weather forecast first.",
+      "example_in_tamil": "வானிலை கணிப்பை கவனியாமல், கார்த்திகை மாதத்தில், வெளியே நடக்கச் செல்வது, ஒரு முட்டாள்தனமான யோசனை.",
+      "meaning_in_tamil": "சில்லறைத்தனமான / முட்டாள்தனமான",
+      "emoji": "🙅🏻‍♂️"
+    },
+    {
+      "word": "Dainty",
+      "meaning": "Delicate, small, and often attractive",
+      "example": "Ari looked at the dainty crablets in a sook.",
+      "example_in_tamil": "அரி, ஒரு பெண் நண்டில் இருந்த, குட்டி நண்டுகளை கவனித்தான்.",
+      "meaning_in_tamil": "நுணுக்கமாகவும், சிறியதாகவும், வசீகரமாகவும் உள்ள",
+      "emoji": "🦀"
+    },
+    {
+      "word": "Dale",
+      "meaning": "A valley, especially a broad one, often used in literary contexts",
+      "example": "There is a dale in Kodaikanal called Death Dale.",
+      "example_in_tamil": "கொடைக்கானலில், மரணப்பள்ளத்தாக்கு எனப்படும் பள்ளத்தாக்கு உள்ளது.",
+      "meaning_in_tamil": "அகலமான பள்ளத்தாக்கு (இலக்கியங்களில்)",
+      "emoji": "🏞️"
+    },
+    {
+      "word": "Dally",
+      "meaning": "To waste time or to act or move slowly",
+      "example": "An old lady was dallying while walking down the stairs, and Mr. Bean behind her was irritated.",
+      "example_in_tamil": "ஒரு மூதாட்டி, படியில் இறங்குகையில் மெல்ல நகர்ந்தார். அவர்களுக்கு பின்னாலிருந்த திரு.அவரைக்காய் அவர்கள், எரிச்சலடைந்தார்.",
+      "meaning_in_tamil": "மெதுவாக நகர் / நேரத்தை வீண்செய்",
+      "emoji": "🐌"
+    },
+    {
+      "word": "Dampen",
+      "meaning": "To weaken enthusiasm or spirits",
+      "example": "Most people’s interests dampen because of a lack of encouragement.",
+      "example_in_tamil": "பலரது ஆர்வம், ஊக்கம் இல்லாமல், குறைந்துபோகிறது.",
+      "meaning_in_tamil": "ஆர்வம் அல்லது உற்சாகத்தை குலை",
+      "emoji": "😔"
+    },
+    {
+      "word": "Dandified",
+      "meaning": "Loving appearance and style",
+      "example": "Most cinema heroes are dandified.",
+      "example_in_tamil": "அநேக திரைநாயகர்கள், தோரணை தோற்றத்தை விரும்புபவர்கள்.",
+      "meaning_in_tamil": "தோரணையான தோற்றத்தை / உடையை விரும்புகின்ற",
+      "emoji": "🦸🏻"
+    },
+    {
+      "word": "Dauntless",
+      "meaning": "Showing fearlessness and determination",
+      "example": "Be dauntless when the truth is on your side.",
+      "example_in_tamil": "உண்மை உங்கள் பக்கம் எனில், உறுதியோடிருங்கள்!",
+      "meaning_in_tamil": "பயமில்லாத/உறுதியான",
+      "emoji": "💥"
+    },
+    {
+      "word": "Dubious",
+      "meaning": "Hesitating or doubting",
+      "example": "I am dubious about the koel telling me, “I build my own nest.”",
+      "example_in_tamil": "“நானே என் சொந்தக் கூட்டைக் கட்டினேன்” என குயில் கூறுவதில் எனக்கு சந்தேகமாகவுள்ளது.",
+      "meaning_in_tamil": "தயங்குகின்ற / சந்தேகப்படுகின்ற",
+      "emoji": "🤔"
+    }
+  ],
+  "E": [
+    {
+      "word": "Earful",
+      "meaning": "A lengthy reprimand or criticism",
+      "example": "The Tenkasi Parotta shop owner started to give Esakki an earful as he managed to cadge free parotta.",
+      "example_in_tamil": "இலவசமாக பரோட்டா வாங்கும் இசக்கியை, தென்காசி பரோட்டா கடைக்காரர் நீண்டநேரம் வசைபுரிய தொடங்கினார்.",
+      "meaning_in_tamil": "நீண்டநேர திட்டு/விமர்சனம்",
+      "emoji": "🥞"
+    },
+    {
+      "word": "Earmark",
+      "meaning": "To set aside something for a specific purpose",
+      "example": "Ari decided to earmark his time for learning Artificial Intelligence.",
+      "example_in_tamil": "அரி, தனது நேரத்தை, செயற்கை நுண்ணறிவு கற்பதற்காக ஒதுக்க முடிவெடுத்தான்.",
+      "meaning_in_tamil": "ஒன்றனுக்காக ஒன்றனை ஒதுக்க",
+      "emoji": "🦾"
+    },
+    {
+      "word": "Ear-Piercing",
+      "meaning": "Extremely loud or harsh / A Tamil Ceremony",
+      "example": "Esakki’s son’s ear piercing ceremony will take place with his son sitting on Ari’s lap.",
+      "example_in_tamil": "இசக்கியின் மகனது காதுகுத்து சடங்கு, அவனை அரியின் மடியில் இருக்கவைத்து நடைபெறும்.",
+      "meaning_in_tamil": "காதுகுத்து",
+      "emoji": "👂"
+    },
+    {
+      "word": "Ear-Splitting",
+      "meaning": "Extremely loud, often painfully so",
+      "example": "The baby’s cry was so ear-splitting.",
+      "example_in_tamil": "குழந்தையின் அழுகை, மிக சத்தமாக இருந்தது.",
+      "meaning_in_tamil": "அதிக சத்தமான",
+      "emoji": "👶🏻"
+    },
+    {
+      "word": "Eavesdrop",
+      "meaning": "To secretly listen to someone else's conversation.",
+      "example": "Esakki eavesdrops on whatever Ari speaks on the phone.",
+      "example_in_tamil": "அரி கைப்பேசியில் என்ன பேசினாலும், இசக்கி ஒட்டுக்கேட்கிறான்.",
+      "meaning_in_tamil": "ஒட்டுக்கேள்",
+      "emoji": "🤦🏻"
+    },
+    {
+      "word": "Ebullient",
+      "meaning": "Cheerful and full of energy",
+      "example": "How can Ari always be ebullient?",
+      "example_in_tamil": "எவ்வாறு அரியால், எப்போதும் உற்சாகமாக இருக்கமுடிகிறது?",
+      "meaning_in_tamil": "உற்சாகமான மற்றும் ஆற்றலுடைய",
+      "emoji": "😃"
+    },
+    {
+      "word": "Effervescent",
+      "meaning": "Bubbly or cheerful",
+      "example": "How can Ari always be effervescent?",
+      "example_in_tamil": "எவ்வாறு அரியால், எப்போதும் உற்சாகமாக இருக்கமுடிகிறது?",
+      "meaning_in_tamil": "உற்சாகமான / ஊக்கம் மிகுந்த",
+      "emoji": "😃"
+    },
+    {
+      "word": "Enthrall",
+      "meaning": "To capture someone’s attention",
+      "example": "Ari can enthrall everyone.",
+      "example_in_tamil": "எல்லோர் கவனத்தையும் அரியால் ஈர்க்கமுடியும்.",
+      "meaning_in_tamil": "ஒருவரது கவனத்தை ஈர்த்திடு",
+      "emoji": "😍"
+    },
+    {
+      "word": "Erratic",
+      "meaning": "Not predictable",
+      "example": "The stock market is erratic.",
+      "example_in_tamil": "பங்குசந்தை, ஊகிக்கமுடியாதவொன்று.",
+      "meaning_in_tamil": "ஊகிக்கவே முடியாத",
+      "emoji": "💹"
+    }
+  ],
+  "F": [
+    {
+      "word": "Fabled",
+      "meaning": "Famous for being legendary or renowned",
+      "example": "Tirunelveli is fabled for Halwa.",
+      "example_in_tamil": "திருநெல்வேலி, அல்வாவிற்கு பெயர்பெற்றது.",
+      "meaning_in_tamil": "புகழ்பெற்ற",
+      "emoji": "😋"
+    },
+    {
+      "word": "Fabricate",
+      "meaning": "To invent or concoct something, often with deceitful intent",
+      "example": "It’s easy for Esakki to fabricate a lie about Ari.",
+      "example_in_tamil": "அரியை பற்றி, இல்லாத ஒன்றை கதைகட்ட, இசக்கிக்கு எளிது!",
+      "meaning_in_tamil": "கதை கட்டு",
+      "emoji": "🤥"
+    },
+    {
+      "word": "Face Saving",
+      "meaning": "Actions taken to preserve one's dignity or reputation",
+      "example": "As a face saving measure, the politician apologised.",
+      "example_in_tamil": "தன் பெயரைக் காக்க எண்ணி, அரசியல்வாதி மன்னிப்புக்கேட்டான்.",
+      "meaning_in_tamil": "கௌரவத்தை காப்பாத்துகின்ற",
+      "emoji": "🙏"
+    },
+    {
+      "word": "Facet",
+      "meaning": "A particular aspect or dimension of something",
+      "example": "Tamil has many facets, including its sweetness, eternity, and cultural depth.",
+      "example_in_tamil": "தமிழ், இனிமை, அழிவின்மை மற்றும் கலாச்சார ஆழம் என பல பரிமாணங்களை உடையது.",
+      "meaning_in_tamil": "ஒரு பரிமாணம்",
+      "emoji": "❤️"
+    },
+    {
+      "word": "Facilitate",
+      "meaning": "To make an action or process easier",
+      "example": "The facilitated way of making coffee is simply buying it.",
+      "example_in_tamil": "தேனீர் தயாரிக்க சுலபமான வழி, அதை வாங்குவதுதான்!",
+      "meaning_in_tamil": "ஒன்றனை சுலபமாக்கு",
+      "emoji": "☕️"
+    },
+    {
+      "word": "Frivolous",
+      "meaning": "Not having any serious purpose or value; carefree",
+      "example": "Some students are still frivolous.",
+      "example_in_tamil": "சில மாணவர்கள், இன்னும் எனக்கென்னவென்று இருக்கிறார்கள்.",
+      "meaning_in_tamil": "எந்தவொரு உயர் நோக்கமுமற்ற",
+      "emoji": "🙂‍↔️"
+    },
+    {
+      "word": "Furtive",
+      "meaning": "Attempting to avoid notice or attention, typically because of guilt; secretive",
+      "example": "The dog was furtive as it ate the bun.",
+      "example_in_tamil": "ரொட்டியை தின்றதால், நாய் குற்றவுணர்ச்சி கொண்டாற்போல தோன்றியது.",
+      "meaning_in_tamil": "குற்ற உணர்ச்சி காரணமாக ஒன்றை மறைக்க முயல்கின்ற",
+      "emoji": "🐶"
+    },
+    {
+      "word": "Facile",
+      "meaning": "Easy",
+      "example": "It’s very facile for me to crack the differential calculus exam.",
+      "example_in_tamil": "வகைநுண்கணித தேர்வில் தேர்ச்சியடைவது, எமக்கெளிது.",
+      "meaning_in_tamil": "சுலபமான",
+      "emoji": "😎"
+    },
+    {
+      "word": "Factious",
+      "meaning": "Causing disagreement or conflict within a group",
+      "example": "A government with religion as its core principle is factious toward the unity of its people.",
+      "example_in_tamil": "மதத்தையே அடிப்படைக்கொள்கையாய் கொண்டுள்ள அரசாங்கம், அதன் மக்களின் ஒற்றுமையை குலைக்கவல்லது.",
+      "meaning_in_tamil": "ஒற்றுமையை சீர்குலைக்கின்ற/பிரிவினையூட்டுகின்ற",
+      "emoji": "🤮"
+    }
+  ],
+  "G": [
+    {
+      "word": "Gab",
+      "meaning": "To speak easily and continuously about something",
+      "example": "Esakki has the gift of gab, always able to keep a conversation going, no matter the topic.",
+      "example_in_tamil": "எந்த தலைப்பாக இருந்தாலும், நன்றாக பேசி, உரையாடலை தொடர்ந்து கொண்டுபோகும் திறமை இசக்கியிடம் உள்ளது.",
+      "meaning_in_tamil": "நன்றாக பேசு",
+      "emoji": "🗣️"
+    },
+    {
+      "word": "Gabble",
+      "meaning": "To talk rapidly and unintelligibly",
+      "example": "But sometimes, Esakki gabbles, making it hard to understand what he’s saying.",
+      "example_in_tamil": "ஆனால், சில நேரங்களில் இசக்கி உலறுவது, அவன் என்ன சொல்கிறான் என்பதை புரிந்துகொள்ள கடினமாக்கும்!",
+      "meaning_in_tamil": "உலறு",
+      "emoji": "🥲"
+    },
+    {
+      "word": "Gad",
+      "meaning": "To wander around from place to place",
+      "example": "Sattanathan was given the name Seththirabalan because he was always gadding about to many temples.",
+      "example_in_tamil": "கோயில் கோயிலாக சுற்றித்திரிந்ததால், சட்டநாதனுக்கு, சேத்திரபாலன் என பெயர் தரப்பட்டது.",
+      "meaning_in_tamil": "இடம் இடமாக சுற்றத்திரி",
+      "emoji": "✨"
+    },
+    {
+      "word": "Gadabout",
+      "meaning": "A person who travels or wanders around a lot",
+      "example": "Sattanathan was a gadabout.",
+      "example_in_tamil": "சட்டநாதன் ஒரு தேசாந்திரியாக இருந்தான்!",
+      "meaning_in_tamil": "இடம் இடமாக சுற்றித்திரிபவன்",
+      "emoji": "🚶🏻"
+    },
+    {
+      "word": "Gaggle",
+      "meaning": "A group of people or animals that are noisy or chaotic",
+      "example": "A gaggle of students gathered around the entrance, chatting loudly before the school doors opened.",
+      "example_in_tamil": "பள்ளிக்கதவுகள் திறப்பதற்கு முன்பாக, சத்தமாக அரட்டையடித்தவாறே, மாணவர்களின் கூட்டம் முகப்பில் கூடியது.",
+      "meaning_in_tamil": "சலம்பிக்கொண்டே செல்லும் கூட்டம்/வாத்துக்கூட்டம்",
+      "emoji": "🙊"
+    },
+    {
+      "word": "Garrulous",
+      "meaning": "Excessively talkative",
+      "example": "After returning from the USA, Ishwarya became quite garrulous and Gowtham was galvanised.",
+      "example_in_tamil": "ஐக்கிய அமெரிக்க நாடுகளிலிருந்து திரும்பிய பிறகு, ஐசுவரியா, ரொம்ப பேசுபவளானாள். மேலும், கௌதம் ஆச்சரியப்பட்டுப்போனான்.",
+      "meaning_in_tamil": "ரொம்ப பேசுகின்ற",
+      "emoji": "🇺🇸"
+    },
+    {
+      "word": "Galvanize",
+      "meaning": "To shock or excite someone into taking action",
+      "example": "The magician, Great Kirikaalan galvanized the audience by pulling a dove out of the hat.",
+      "example_in_tamil": "தொப்பியிலிருந்து புறாவை எடுத்து, கிரேட் கிரிகாலன் எனும் தந்திரவாதி, பார்வையாளர்களை ஆச்சரியப்படுத்தினார்.",
+      "meaning_in_tamil": "செயல்களால் மற்றோரை ஆச்சரியப்படுத்து",
+      "emoji": "🕊️"
+    }
+  ],
+  "H": [
+    {
+      "word": "Habiliment",
+      "meaning": "Clothing or garments",
+      "example": "Ari likes black habiliments.",
+      "example_in_tamil": "அரி, கருப்பு ஆடைகளை விரும்புகிறான்.",
+      "meaning_in_tamil": "உடுப்பு",
+      "emoji": "🖤"
+    },
+    {
+      "word": "Habituate",
+      "meaning": "To accustom or adapt oneself to something",
+      "example": "Ari can’t habituate to living in North India.",
+      "example_in_tamil": "வட இந்தியாவில், அரியால் வாழ பழகிக்கொள்ள இயலாது.",
+      "meaning_in_tamil": "பழக்கப்படுத்திக்கொள்",
+      "emoji": "🙅🏻‍♂️"
+    },
+    {
+      "word": "Habitué",
+      "meaning": "A person who frequently visits a particular place",
+      "example": "My son Beththaraasu is a habitué of the court because he works as a lawyer.",
+      "example_in_tamil": "என் மகன் பெத்தராசு, நெதம் கோர்ட்டு வாசல்ல மிதிச்சிட்ருக்கான்… ஏனென்றால் வக்கீலா.",
+      "meaning_in_tamil": "ஓர் இடத்திற்கு வழக்கமாக வருபவன்",
+      "emoji": "🧑🏻‍⚖️"
+    },
+    {
+      "word": "Hack",
+      "meaning": "To cut something into pieces or to disable a computer",
+      "example": "Esakki’s dad sells fish and hacks them into pieces for customers.",
+      "example_in_tamil": "இசக்கியின் அப்பா, மீன் விற்கிறார். வாடிக்கையாளர்களுக்காக அவற்றை துண்டு துண்டாக வெட்டுகிறார்.",
+      "meaning_in_tamil": "கந்தலாக வெட்டு/கணினியை முடக்கு",
+      "emoji": "🐟"
+    },
+    {
+      "word": "Hackney",
+      "meaning": "A horse-drawn carriage",
+      "example": "Esakki’s grandpa, Azhagu Thevar, owned a hackney.",
+      "example_in_tamil": "இசக்கியின் தாத்தா, அழகு தேவரிடம் ஒரு குதிரைவண்டி இருந்தது.",
+      "meaning_in_tamil": "குதிரைவண்டி",
+      "emoji": "🐴"
+    },
+    {
+      "word": "Hapless",
+      "meaning": "Unfortunate",
+      "example": "RCB is often regarded as hapless in the IPL series.",
+      "example_in_tamil": "ஐ.பி.எல் தொடர்களில், ஆர்.சி.பி போகூழாய் கருதப்படுகிறது.",
+      "meaning_in_tamil": "போகூழான",
+      "emoji": "🇺🇸"
+    },
+    {
+      "word": "Haughty",
+      "meaning": "Arrogantly superior and disdainful",
+      "example": "Time punishes haughty people who believe their caste is superior.",
+      "example_in_tamil": "தன் சாதியே உயர்ந்தது என நம்பும் அகந்தையுடையவர்களை, காலம் தண்டிக்கிறது.",
+      "meaning_in_tamil": "செருக்கும் மற்றவர்களைவிடத் தான் மேலானவர் என்ற எண்ணமும் கொண்ட; அகந்தை கொண்ட; இறுமாப்புடைய",
+      "emoji": "🚫"
+    }
+  ],
+  "I": [
+    {
+      "word": "Idolize",
+      "meaning": "To regard with great admiration or devotion",
+      "example": "People idolize some cinema actors without knowing their real characters.",
+      "example_in_tamil": "மக்கள், சில திரைப்பட நடிகர்களை, அவர்களது உண்மை குணம் அறியாமலேயே பெரிதாக கொண்டாடுகிறார்கள்.",
+      "meaning_in_tamil": "ஒன்றனை கொண்டாடு",
+      "emoji": "👎"
+    },
+    {
+      "word": "Iced",
+      "meaning": "Chilled or cooled with ice",
+      "example": "Esakki’s dad uses an iced box for preserving fish, keeping them fresh throughout the day.",
+      "example_in_tamil": "நாள் முழுக்க மீன்களை கெட்டுபோகாமல் வைக்க, இசக்கியின் அப்பா குளிர்விக்கப்பட்ட பெட்டி ஒன்றை பதப்படுத்துவதற்காக பயன்படுத்துகிறார்.",
+      "meaning_in_tamil": "குளிர்விக்கப்பட்ட/பனிக்கட்டி சேர்க்கப்பட்ட",
+      "emoji": "🐟"
+    },
+    {
+      "word": "Icy",
+      "meaning": "Very cold or emotionally cold",
+      "example": "Esakki becomes icy when asked to buy food for me.",
+      "example_in_tamil": "உணவு வாங்கி தருமாறு கேட்கும்போது, இசக்கி குரூரமாகிறான்.",
+      "meaning_in_tamil": "குளிர்ந்த/மிகவும் குரூரமான",
+      "emoji": "😠"
+    },
+    {
+      "word": "Idiocy",
+      "meaning": "Extreme foolishness",
+      "example": "Driving without wearing a seatbelt is pure idiocy.",
+      "example_in_tamil": "இருக்கை வார் அணியாமல் வண்டி ஓட்டுவது, வடிகட்டிய முட்டாள்தனம்!",
+      "meaning_in_tamil": "முட்டாள்தனம்",
+      "emoji": "🛻"
+    },
+    {
+      "word": "Idealize",
+      "meaning": "To regard or represent something as perfect or better than it really is",
+      "example": "Some people idealize the grandson of Azhagu Thevar, seeing him as a flawless figure, but Ari knows the reality behind the image.",
+      "example_in_tamil": "சிலர், அழகுதேவரின் பேரனை, மாசற்ற மானுடனாக உயர்வாக எண்ணுகின்றனர். ஆனால், அரி மட்டுமே அவனது ஆக்கத்தை அறிவான்.",
+      "meaning_in_tamil": "ஒன்றனை உயர்ந்ததென கருது",
+      "emoji": "😌"
+    },
+    {
+      "word": "Illicit",
+      "meaning": "Forbidden by law, rules, or custom",
+      "example": "Lotteries are illicit in Tamil Nadu.",
+      "example_in_tamil": "தமிழ் நாட்டில், குலுக்குச்சீட்டு தடைசெய்யப்பட்டவொன்று.",
+      "meaning_in_tamil": "சட்டத்தால் தடைசெய்யப்பட்ட",
+      "emoji": "🎫"
+    },
+    {
+      "word": "Imminent",
+      "meaning": "About to happen; likely to occur soon",
+      "example": "There are many imminent prophecies mentioned in Akilathirattu Ammanai.",
+      "example_in_tamil": "சம்பவிக்கயிருக்கின்ற தீர்க்கதரிசனங்கள், அதிகபடியாக அகிலத்திரட்டு அம்மானையில் குறிப்பிடப்பட்டுள்ளன.",
+      "meaning_in_tamil": "நடக்கவிருக்கின்ற",
+      "emoji": "📖"
+    }
+  ],
+  "J": [
+    {
+      "word": "Jab",
+      "meaning": "To poke or thrust with a pointed object or to attract attention forcefully",
+      "example": "Esakki didn’t listen to Ari, so Ari jabbed him with his pen to get his attention.",
+      "example_in_tamil": "அரிக்கு இசக்கி செவிமடுக்காததால், அவனது கவனத்தை பெற, அரி தன் பேனாவால் இசக்கியை குத்தினான்.",
+      "meaning_in_tamil": "கூரிய ஒன்றால் குத்து/அவ்வாறு செய்து ஒருவரின் கவனத்தை தன் பக்கம் திருப்பு",
+      "emoji": "🖋️"
+    },
+    {
+      "word": "Jabber",
+      "meaning": "To talk rapidly and continuously in a foolish or inconsequential way",
+      "example": "Esaki was jabbering when asked to explain how DNS works.",
+      "example_in_tamil": "DNS எவ்வாறு இயங்கும் என கேட்டபோது, தெரிந்ததுபோலவே இசக்கி பிதற்றத்தொடங்கினான்.",
+      "meaning_in_tamil": "அர்த்தம் ஏதுமில்லாமல், தெரிந்தது போலவே பேசு",
+      "emoji": "🙊"
+    },
+    {
+      "word": "Jack",
+      "meaning": "To lift or increase significantly or a tool used for lifting heavy objects",
+      "example": "Esakki expects to jack up his salary.",
+      "example_in_tamil": "இசக்கி, தனது சம்பளத்தை அதிகமாக்க விழைகிறான்.",
+      "meaning_in_tamil": "மிக அதிகமாக்கு / வாகனத்தை தூக்கும் கருவி",
+      "emoji": "💰"
+    },
+    {
+      "word": "Jaded",
+      "meaning": "Tired or worn out, typically after having too much of something",
+      "example": "Esakki was jaded after ten attempts to clear his arrears.",
+      "example_in_tamil": "தன் நிலுவைத்தாள்களை தீர்க்க, பத்து முறை முயற்சித்த இசக்கி, தளர்ந்தான்.",
+      "meaning_in_tamil": "ஒன்றனை தொடர்ந்து செய்து பின் தளர்ந்துபோ",
+      "emoji": "😔"
+    },
+    {
+      "word": "Jag",
+      "meaning": "A period of intense activity or involvement",
+      "example": "Even after a jag of writing a lot of programs, Ari wasn’t jaded.",
+      "example_in_tamil": "பல நாழிகைகள் அதிக நிரல் எழுதிய பின்னரும், அரி தளர்ந்துபோகவில்லை.",
+      "meaning_in_tamil": "ஒன்றில் நீண்டநேர ஈடுபாடு",
+      "emoji": "😃"
+    }
+  ],
+  "K": [
+    {
+      "word": "Kaput",
+      "meaning": "Broken and useless",
+      "example": "The old computer is kaput; it hasn’t turned on in weeks.",
+      "example_in_tamil": "பழைய கணினி உடைந்துவிட்டது. அது இயங்காமல் வாரக்கணக்காகிறது.",
+      "meaning_in_tamil": "உடைந்த / பயனற்ற",
+      "emoji": "🖥️"
+    },
+    {
+      "word": "Keelhaul",
+      "meaning": "To punish someone severely",
+      "example": "Time will keelhaul the human beasts.",
+      "example_in_tamil": "மனித மிருகங்களை, காலமே தண்டிக்கும்.",
+      "meaning_in_tamil": "வன்மையாக ஒருவரை தண்டி",
+      "emoji": "⏳"
+    },
+    {
+      "word": "Keen",
+      "meaning": "Eager, interested, or wail in grief for a dead person",
+      "example": "Ari is keen on ferns.",
+      "example_in_tamil": "அரி, பெரணிச்செடிகளின் மீது ஆர்வம் கொண்டவன்.",
+      "meaning_in_tamil": "ஆர்வம் கொண்ட / இறந்தவரையெண்ணி புலம்பு",
+      "emoji": "☘️"
+    },
+    {
+      "word": "Ken",
+      "meaning": "To know something or someone",
+      "example": "Ari kenned about Marshal Nesamony through Jeyamohan’s article named Vanangaan.",
+      "example_in_tamil": "செயமோகனின், வணங்கான் எனும் கட்டுரை மூலமாக, அரி, மார்சல் நேசமணியை பற்றி அறிந்துகொண்டான்.",
+      "meaning_in_tamil": "ஒன்றனை/ஒருவரை பற்றி தெரிந்து கொள்",
+      "emoji": "⚡️"
+    },
+    {
+      "word": "Kid",
+      "meaning": "To fool someone or a child/young person",
+      "example": "Are you kidding me that ants ate all the sugar and the rat ate all the sacks?",
+      "example_in_tamil": "“எல்லா சர்க்கரையையும் எறும்பு தின்றுவிட்டது; எல்லா சாக்குமூட்டைகளையும் எலி தின்றுவிட்டது”, என்று என்னை ஏமாற்றுகிறாயா?",
+      "meaning_in_tamil": "ஒருவரை ஏமாற்று / சிறுவன் / சிறுமி",
+      "emoji": "🤥"
+    },
+    {
+      "word": "Knack",
+      "meaning": "A natural skill or talent for doing something",
+      "example": "Jackie Chan has a knack for kicking a falling egg.",
+      "example_in_tamil": "விழும் முட்டையை உதைக்க, சாக்கிச்சேன், திறைமையுடையவர்.",
+      "meaning_in_tamil": "இயல்பாக அமைந்த திறமை",
+      "emoji": "🥚"
+    },
+    {
+      "word": "Knoll",
+      "meaning": "A small hill or mound",
+      "example": "In Kaattoor, there was a knoll where some mongooses used to live.",
+      "example_in_tamil": "காட்டூரிலிருந்த சிறு பரும்பில், கீரிகள் வாழ்ந்தன.",
+      "meaning_in_tamil": "சிறு குன்று",
+      "emoji": "🦨"
+    }
+  ],
+  "L": [
+    {
+      "word": "Laborious",
+      "meaning": "Requiring a lot of effort, time, and hard work",
+      "example": "It’s laborious to learn French.",
+      "example_in_tamil": "பிரஞ்சு கற்க அதிக முயற்சி தேவை.",
+      "meaning_in_tamil": "அதிக முயற்சி, நேரம் மற்றும் கடின உழைப்பு தேவைப்படுகின்ற",
+      "emoji": "📚"
+    },
+    {
+      "word": "Laboured",
+      "meaning": "Done with difficulty or effort",
+      "example": "His explanation about Cell Division was laboured.",
+      "example_in_tamil": "செல் பிரிதல் குறித்த அவனது விளக்கம், சிரத்தையானது.",
+      "meaning_in_tamil": "கடினம்/சிரத்தையுடன் செய்யப்பட்ட",
+      "emoji": "😰"
+    },
+    {
+      "word": "Lachrymose",
+      "meaning": "Tearful",
+      "example": "The audience became lachrymose just seeing Michael Jackson.",
+      "example_in_tamil": "வெறுமனே, மைக்கேல் சாக்சனை கண்ட இரசிகர்கள், அழுகையுற்றனர்.",
+      "meaning_in_tamil": "அழுகையுறும்",
+      "emoji": "😭"
+    },
+    {
+      "word": "Lackadaisical",
+      "meaning": "Lacking enthusiasm, energy, or determination",
+      "example": "Esakki’s lackadaisical attitude made him fail in Computer Architecture.",
+      "example_in_tamil": "இசக்கியின், சொங்கியான மனப்பான்மை, கணினி கட்டமைப்பியலில் அவனை தோல்வியுறச் செய்தது.",
+      "meaning_in_tamil": "சொங்கிபோல் தோன்றுகின்ற",
+      "emoji": "😪"
+    },
+    {
+      "word": "Laconic",
+      "meaning": "Using only a few words to speak",
+      "example": "Mr. Bean is laconic, often communicating through actions and expressions rather than words.",
+      "example_in_tamil": "திரு. அவரைக்காய், அநேக நேரங்களில், வார்த்தைகளாலன்றி, செய்கைகளாலும் பாவனைகளாலும் உரையாடும் இயல்புடையவர்.",
+      "meaning_in_tamil": "குறைந்த வார்த்தைகளால் பேசிகின்ற",
+      "emoji": "🫛"
+    },
+    {
+      "word": "Lucid",
+      "meaning": "Easy to understand",
+      "example": "Most biological concepts are lucid.",
+      "example_in_tamil": "அநேக உயிரியல் கருத்தியல்கள், புரிய எளியவை.",
+      "meaning_in_tamil": "புரிய எளியதான",
+      "emoji": "🧬"
+    },
+    {
+      "word": "Lament",
+      "meaning": "To express sorrow or regret; to mourn",
+      "example": "No one should lament needlessly.",
+      "example_in_tamil": "தேவையில்லாமல் யாரும் புலம்பக்கூடாது.",
+      "meaning_in_tamil": "புலம்பு",
+      "emoji": "🙊"
+    }
+  ],
+  "M": [
+    {
+      "word": "Macabre",
+      "meaning": "Disturbing because concerned with death or injury.",
+      "example": "It’s macabre to imagine falling into the sea from a ship at night, because no one would be able to find you in the darkness.",
+      "example_in_tamil": "இருட்டில் யாராலும் நம்மை காணவியலாது என்பதால், இரவு நேரத்தில் கப்பலிலிருந்து கடலில் விழுவதை எண்ணவே மனம் பயத்தால் நோகுகிறது.",
+      "meaning_in_tamil": "மரணம் அல்லது காயப்படுத்துவதற்கு ஏதுவாகயிருந்து மனநோகல்/தொல்லையளிக்கின்ற",
+      "emoji": "💀"
+    },
+    {
+      "word": "Macerate",
+      "meaning": "To soften food by soaking it in liquid.",
+      "example": "Ari likes to eat macerated rice for grinding before making dosa.",
+      "example_in_tamil": "அரி, தோசை சுடுவதற்கு முன், அரைப்பதற்காக ஊறவைத்த அரிசியை தின்ன விரும்புகிறான்.",
+      "meaning_in_tamil": "ஊற வை",
+      "emoji": "🍚"
+    },
+    {
+      "word": "Machination",
+      "meaning": "A scheme or plot, typically one that is crafty or sinister.",
+      "example": "Esakki is good at machinations.",
+      "example_in_tamil": "சகுனி வேலைகளில், இசக்கி மாச்சிறந்தவன்.",
+      "meaning_in_tamil": "சதித்திட்டம்",
+      "emoji": "🃏"
+    },
+    {
+      "word": "Machismo",
+      "meaning": "Strong or aggressive male pride.",
+      "example": "Some people are high in machismo without realizing that, without women, there can’t be men.",
+      "example_in_tamil": "பெண்ணில்லையேல், ஆணில்லை என்றுணராத சிலர், ஆண்மையின் பெருமை மிகைத்துள்ளனர்.",
+      "meaning_in_tamil": "ஆண்மையின் பெருமை",
+      "emoji": "👨🏻"
+    },
+    {
+      "word": "Macho",
+      "meaning": "Feeling proud of masculinity.",
+      "example": "Some wrestlers are macho.",
+      "example_in_tamil": "சில மல்யுத்தவீரர்கள், ஆண்மையில் அதிக பெருமையுள்ளவர்கள்.",
+      "meaning_in_tamil": "ஆண்மையில் பெருமையுடைய",
+      "emoji": "💪"
+    },
+    {
+      "word": "Mundane",
+      "meaning": "Lacking interest",
+      "example": "Only Esakki can turn an interesting story into something so mundane.",
+      "example_in_tamil": "இசக்கியால் மட்டும்தான், ஆர்வமான ஒரு கதையை ஆர்வமற்றதாக ஆக்க முடியும்!",
+      "meaning_in_tamil": "ஆர்வமற்ற",
+      "emoji": "😩"
+    },
+    {
+      "word": "Meticulous",
+      "meaning": "Showing great attention to detail, being very careful and precise",
+      "example": "The painting artist is known for his meticulous attention to detail in every painting.",
+      "example_in_tamil": "வண்ணக்கலைஞர், அவரது கண்ணுங்கருத்துமான நுணுக்கங்கொண்ட சித்திரங்களுக்கு புகழ்பெற்றவர்.",
+      "meaning_in_tamil": "கண்ணுங்கருத்துமாக",
+      "emoji": "🎨"
+    }
+  ],
+  "N": [
+    {
+      "word": "Nadir",
+      "meaning": "Lowest point",
+      "example": "After failing all his exams, Esakki felt like he had reached the nadir of his life.",
+      "example_in_tamil": "தனது அனைத்து தேர்வுகளிலும் தோற்றப்பின்னர், இசக்கி தனது வாழ்வின் அடிநிலையை அடைந்ததாக உணர்ந்தான்.",
+      "meaning_in_tamil": "அடிநிலை",
+      "emoji": "😔"
+    },
+    {
+      "word": "Naff",
+      "meaning": "Go away / Lacking taste or style",
+      "example": "Esakki’s friends thought his brightly colored jacket was a bit naff.",
+      "example_in_tamil": "இசக்கியின் நண்பர்கள், அவனது பளிச்சென்ற நிறமுடைய மேலாடை, பழையதுபோல (பழங்காலத்தியது) எண்ணினர்.",
+      "meaning_in_tamil": "போய்த்தொலை / நன்றாக இல்லாத",
+      "emoji": "👘"
+    },
+    {
+      "word": "Nag",
+      "meaning": "Constantly tell someone something they don’t like / A horse that is old or in poor condition",
+      "example": "Esakki’s friend Ari would always nag him to take bath.",
+      "example_in_tamil": "இசக்கியின் நண்பர் அரி, அவனை குளிக்குமாறு, தொடர்ந்து கூறிக்கொண்டேயிருப்பான்.",
+      "meaning_in_tamil": "தொடர்ந்து பிடிக்காத ஒன்றை கூறிக்கொண்டேயிரு / பழைய அல்லது வலுவிழந்த குதிரை",
+      "emoji": "🚿"
+    },
+    {
+      "word": "Naif",
+      "meaning": "Innocent or Ignorant",
+      "example": "Ambi, a naif, sometimes becomes Anniyan a cunning person",
+      "example_in_tamil": "அம்மாஞ்சியான அம்பி, சில நேரங்களில் தந்திரமான நபரான அன்னியனாக மாறுகிறான்.",
+      "meaning_in_tamil": "அப்பாவியான/அம்மாஞ்சியான",
+      "emoji": "🙆🏻"
+    },
+    {
+      "word": "Naive",
+      "meaning": "Inexperienced",
+      "example": "Esakki was too naive to realize that not everyone had good intentions.",
+      "example_in_tamil": "எல்லோரும் நல்லெண்ணம் கொண்டோர்கள் என உணர இசக்கிக்கு அனுபவமில்லை.",
+      "meaning_in_tamil": "அனுபவமில்லாத",
+      "emoji": "🤷"
+    },
+    {
+      "word": "Nefarious",
+      "meaning": "Wicked, Criminal or very bad",
+      "example": "It’s a nefarious system to treat people unfairly based on their birth.",
+      "example_in_tamil": "மக்களை, அவர்தம் பிறப்பினால் நேர்மையற்று நடத்துவது, மோசமான அமைப்பியல்!",
+      "meaning_in_tamil": "மோசமான",
+      "emoji": "👎"
+    },
+    {
+      "word": "Noxious",
+      "meaning": "Harmful / Poisonous",
+      "example": "I found a noxious mushroom near the tree.",
+      "example_in_tamil": "மரத்திற்கருகே, நான் ஒரு விசக்காளானை கண்டுபிடித்தேன்.",
+      "meaning_in_tamil": "தீதான / விடமான",
+      "emoji": "🍄"
+    }
+  ],
+  "O": [
+    {
+      "word": "Oaf",
+      "meaning": "Clumsy, unintelligent, or awkward person.",
+      "example": "Did I ever say Esakki is an oaf?",
+      "example_in_tamil": "இசக்கி ஒரு முட்டாளென, எப்போதாவது அதன் சொல்லியுள்ளேனா?",
+      "meaning_in_tamil": "முட்டாள் / முரடன்",
+      "emoji": "😶‍🌫️"
+    },
+    {
+      "word": "Oasis",
+      "meaning": "A fertile spot in a desert where water is found",
+      "example": "When Ari was walking in the Theri desert, he found an oasis.",
+      "example_in_tamil": "தேரி பாலைவனத்தில் நடந்துகொண்டிருக்கையில், அரி ஒரு சோலைவனத்தை கண்டுபிடித்தான்.",
+      "meaning_in_tamil": "பாலையில் நீர்சுரக்கும் சோலை / கலவரத்திலும் குதூகலம் தரும் நேரம்",
+      "emoji": "🐪"
+    },
+    {
+      "word": "Oath",
+      "meaning": "A solemn promise",
+      "example": "She took an oath to tell the truth in the courtroom.",
+      "example_in_tamil": "நீதிமன்றத்தில் உண்மையைக்கூற அவள், சத்தியம் கொண்டாள்.",
+      "meaning_in_tamil": "சத்தியம்",
+      "emoji": "🧑🏻‍⚖️"
+    },
+    {
+      "word": "Obdurate",
+      "meaning": "Stubbornly refusing",
+      "example": "Ari was obdurate when asked to eat non-veg.",
+      "example_in_tamil": "அசைவம் உண்ணுமாறு கேட்டுக்கொண்டபோது, அரி விடாப்பிடியாக மறுத்தான்.",
+      "meaning_in_tamil": "விடாபிடியாக ஒன்றனை மறுக்கின்ற",
+      "emoji": "🍗"
+    },
+    {
+      "word": "Obese",
+      "meaning": "Very fatty",
+      "example": "Esakki will become obese if he eats 25 dosas every day.",
+      "example_in_tamil": "தினமும் 25 தோசைகளை தின்னால், இசக்கி குண்டாகிவிடுவான்.",
+      "meaning_in_tamil": "குண்டான",
+      "emoji": "🫃🏻"
+    },
+    {
+      "word": "Obfuscate",
+      "meaning": "Make unclear or hard to understand",
+      "example": "Using unknown words to explain a concept will obfuscate it.",
+      "example_in_tamil": "ஒரு கருத்தியலை, தெரியாத வார்த்தைகளை பயன்படுத்தி விவரிப்பது, அதனை புரிந்துகொள்வதை கடினமாக்கும்!",
+      "meaning_in_tamil": "ஒரன்றனை, புரிவதற்கு கடினமாக்கு",
+      "emoji": "🥵"
+    },
+    {
+      "word": "Objectify",
+      "meaning": "To treat a living being as an object or thing",
+      "example": "Some people often objectify others by defining them solely by their ethnicity.",
+      "example_in_tamil": "சில மக்கள், மற்றோரை அவர்தம் இனத்தாலேயே புறநிலைப்படுத்துவதுண்டு!",
+      "meaning_in_tamil": "ஒருவரை புறநிலைப்படுத்து",
+      "emoji": "🫤"
+    }
+  ],
+  "P": [
+    {
+      "word": "Pacify",
+      "meaning": "Make someone less angry or upset",
+      "example": "Manthir was pacified after changing his name to Manthira Petchi Muthu from Manthira Petchi in his childhood.",
+      "example_in_tamil": "குழந்தைப்பிராயத்தில், தன் பெயரை மந்திர பேச்சி என்பதிலிருந்து, மந்திர பேச்சி முத்து என மாற்றியபிறகு, மந்திர் அமைதியானான்.",
+      "meaning_in_tamil": "ஒருவரை அமைதிபடுத்து/சாந்தபடுத்து",
+      "emoji": "🧑🏻‍🍼"
+    },
+    {
+      "word": "Packhorse",
+      "meaning": "A horse used to carry loads",
+      "example": "Esakki’s grandfather, Azhagu Thevar had a pack horse.",
+      "example_in_tamil": "இசக்கியின் தாத்தாவாகிய அழகுதேவர், ஒரு பொதிசுமக்கும் குதிரையை வைத்திருந்தார்.",
+      "meaning_in_tamil": "பொதிசுமக்கும் குதிரை",
+      "emoji": "🐴"
+    },
+    {
+      "word": "Pact",
+      "meaning": "A formal agreement",
+      "example": "It is a pact between Ari and Esakki to not support stupid politicians.",
+      "example_in_tamil": "முட்டாள் அரசியல்வாதிகளை ஆதரிக்கக்கூடாது என அரிக்கும் இசக்கிக்குமிடையே ஓர் உடன்படிக்கை உள்ளது.",
+      "meaning_in_tamil": "உடன்படிக்கை",
+      "emoji": "🤝"
+    },
+    {
+      "word": "Pacy",
+      "meaning": "Happening fast",
+      "example": "Esakki sang the song ‘Veththala Potta Sokkula’ in a pacy manner.",
+      "example_in_tamil": "வெத்தல போட்ட சோக்குல என்ற பாடலை, இசக்கி வேகமாக பாடினான்.",
+      "meaning_in_tamil": "வேகமாக நடக்கின்ற",
+      "emoji": "🎤"
+    },
+    {
+      "word": "Pad",
+      "meaning": "Walk with soft and steady steps",
+      "example": "Ari and his shadow padded into the wild.",
+      "example_in_tamil": "அரியும் அவனது நிழலும் காட்டிற்குள் மெல்ல நடந்தனர்.",
+      "meaning_in_tamil": "மெல்ல நட",
+      "emoji": "🚶🏻‍♀️"
+    },
+    {
+      "word": "Palpable",
+      "meaning": "Able to be touched or felt; easily perceived",
+      "example": "Ghosts are not palpable.",
+      "example_in_tamil": "பேய்கள், உணரத்தக்கவை அல்ல!",
+      "meaning_in_tamil": "தொட/உணர முடிந்த",
+      "emoji": "👻"
+    },
+    {
+      "word": "Palatable",
+      "meaning": "Pleasant to taste or acceptable",
+      "example": "The chef’s new dish was surprisingly palatable.",
+      "example_in_tamil": "வாலுவரது புது ஆகாரம், ஆச்சரியப்படுத்தும் வண்ணம் சுவையாகயிருந்தது.",
+      "meaning_in_tamil": "சுவைக்க இனிய / ஏற்க தகுந்த",
+      "emoji": "😋"
+    }
+  ],
+  "Q": [
+    {
+      "word": "Quack",
+      "meaning": "A harsh sound made by a duck / An unqualified person who claims to have medical knowledge",
+      "example": "Divagar is a quack as he has no medical knowledge, but he considers himself to be a doctor.",
+      "example_in_tamil": "திவாகர், எந்த மருத்துவ அறிவும் இல்லாமல் தம்மை ஒரு மருத்துவர் என தாமே கருதிக்கொள்கிறார்.",
+      "meaning_in_tamil": "வாத்து சத்தம் / மருத்துவ அறிவு உள்ளதாக ஏமாற்றும் ஒரு நபர்",
+      "emoji": "🩺"
+    },
+    {
+      "word": "Quadriceps",
+      "meaning": "A large muscle at the front of the thigh",
+      "example": "Esakki tried to hit Ari’s quadriceps with an opuntia stem, but it fell back onto Esakki’s thigh.",
+      "example_in_tamil": "அரியின் முன்தொடை தசையின்மீது, சப்பாத்திக்கள்ளி தண்டினால் இசக்கி, அடிக்க முற்படுகையில், அது, இசக்கியின் தொடையின் மீது திரும்பி விழுந்தது.",
+      "meaning_in_tamil": "முன்தொடையிலிருக்கும் பெருந்தசை",
+      "emoji": "🌵"
+    },
+    {
+      "word": "Quadruped",
+      "meaning": "An animal with four legs",
+      "example": "Sivakaanda Athigara Pathiram says, ‘All the quadrupeds will not be in the country; all will hide’.",
+      "example_in_tamil": "சிவகாண்ட அதிகார பத்திரம், “நாலு காலு சீவசந்து, நாட்டில் இல்லை; ஓட்டமடா”, என்கிறது.",
+      "meaning_in_tamil": "நான்கு கால்களுடைய விலங்கு",
+      "emoji": "🐐"
+    },
+    {
+      "word": "Quaff",
+      "meaning": "Drink something (especially a wine) heartily",
+      "example": "Pasupathi was going into the Kantharvakottai palace after having quaffed.",
+      "example_in_tamil": "அளவுக்கதிகமாக குடித்துவிட்டு, பசுபதி, கந்தர்வக்கோட்டை சமசுதானத்திற்குள் சென்றுக்கொண்டிருந்தான்.",
+      "meaning_in_tamil": "வயிறு நிறைய குடி (போதைபானத்தை)",
+      "emoji": "😈"
+    },
+    {
+      "word": "Quagmire",
+      "meaning": "A complicated or difficult situation",
+      "example": "When Ari asked some computer science questions, Esakki felt like he got stuck in a quagmire.",
+      "example_in_tamil": "கணினியறிவியற் கேள்விகளை அரி கேட்டபோது, ஏதோ ஒரு கடுஞ்சூழ்நிலையில் சிக்கினாற்போல், இசக்கி எண்ணினான்.",
+      "meaning_in_tamil": "கடினமான சூழல்",
+      "emoji": "👨🏻‍💻"
+    },
+    {
+      "word": "Quorum",
+      "meaning": "The minimum number of members needed to conduct a meeting or make decisions",
+      "example": "A quorum of 11 people is needed for kabaddi.",
+      "example_in_tamil": "கபடிக்கு, குறைந்தபட்சம் 11 பேர் தேவை!",
+      "meaning_in_tamil": "ஒன்றனை நிகழ்த்த தேவையான தலைகளின் எண்ணிக்கை",
+      "emoji": "🤼‍♂️"
+    },
+    {
+      "word": "Quietude",
+      "meaning": "A state of stillness, calmness, and quiet",
+      "example": "Buddha’s quietude when someone scolded him with bad words amazes me.",
+      "example_in_tamil": "ஒருவர் வசைச்சொல்லி வைதபோதும், புத்தரின் அமைதி என்னை வியக்கச்செய்கிறது.",
+      "meaning_in_tamil": "அமைதியாக, பொறுமையாக இருக்கும் நிலை",
+      "emoji": "☸️"
+    }
+  ],
+  "R": [
+    {
+      "word": "Rabble",
+      "meaning": "A disorderly crowd",
+      "example": "I got stuck in a rabble while waiting in the queue for payasam.",
+      "example_in_tamil": "பாயசத்திற்கு வரிசையில் காத்திருந்தபோது, நான் கந்தலான கூட்டத்தில் சிக்குண்டேன்.",
+      "meaning_in_tamil": "கந்தலான கூட்டம்",
+      "emoji": "🥵"
+    },
+    {
+      "word": "Rabble Rouser",
+      "meaning": "Person who stirs up popular opinions for political reasons",
+      "example": "There are a lot of rabble-rousers in this country.",
+      "example_in_tamil": "இந்நாட்டில், மற்றோர் நம்பிக்கையை உடைத்து அரசியல் செய்பவர்கள் அதிகம்.",
+      "meaning_in_tamil": "மற்றவர் எண்ணங்கள்/நம்பிக்கையை அரசியலுக்காக உடைப்பவர்",
+      "emoji": "👎"
+    },
+    {
+      "word": "Rabid",
+      "meaning": "Extreme",
+      "example": "I am a rabid Tamil lover.",
+      "example_in_tamil": "நான் ஒரு தீவிர தமிழ் காதலன்.",
+      "meaning_in_tamil": "தீவிரமான",
+      "emoji": "❤️"
+    },
+    {
+      "word": "Rack",
+      "meaning": "To cause great pain",
+      "example": "The teeth of a palmyra leaf scratched my right hand when I was young and racked.",
+      "example_in_tamil": "நான் சிறுவனாகயிருக்கையில், வலக்கரத்தில் பனங்கருக்கு கீறி, பயங்கரமாக வலியை உண்டாக்கியது.",
+      "meaning_in_tamil": "தீவிர வலியுண்டாக்கு",
+      "emoji": "🍀"
+    },
+    {
+      "word": "Racket",
+      "meaning": "Make a loud unpleasant noise",
+      "example": "When the Pongal was boiling over, Esakki made a racket in the name of Kuravai.",
+      "example_in_tamil": "பொங்கல் பொங்கிவரும்போது, குரவை என்ற பெயரில், இசக்கி காட்டுக்கத்து கத்தினான்.",
+      "meaning_in_tamil": "சத்தமான இரைச்சலையுண்டாக்கு",
+      "emoji": "📢"
+    },
+    {
+      "word": "Raddled",
+      "meaning": "Looking worn out, tired, or disheveled, often as a result of age, exhaustion, or stress",
+      "example": "Esakki’s grandpa, Azhagu Thevar, who lifted the ilavattakkal in his 30s, now looks raddled due to his age.",
+      "example_in_tamil": "தனது முப்பதுகளில், இளவட்டக்கல்லை தூக்கிய இசக்கியின் தாத்தா, இப்போது வயது முதிர்ச்சியால் சோர்ந்து காணப்படுகிறார்.",
+      "meaning_in_tamil": "வயது முதிர்ச்சி, உடற்சோர்வு அல்லது மனச்சோர்வினால், சோர்ந்து காணப்படுகின்ற",
+      "emoji": "🪨"
+    },
+    {
+      "word": "Radiant",
+      "meaning": "Emitting light or energy, or appearing bright and full of happiness or health",
+      "example": "I think Esakki will look radiant on his wedding day.",
+      "example_in_tamil": "தன் திருமணத்தன்று, இசக்கி மிக மகிழ்ச்சியாகயிருப்பான் என எண்ணுகிறேன்.",
+      "meaning_in_tamil": "வெளிச்சம் அல்லது ஆற்றலை உமிழ்கின்ற / சுகம் அல்லது இன்பங்கொழித்த",
+      "emoji": "🗿"
+    }
+  ],
+  "S": [
+    {
+      "word": "Sabotage",
+      "meaning": "Deliberately destroy or damage",
+      "example": "The ants sabotaged the dead body of the black beetle.",
+      "example_in_tamil": "இறந்துகிடந்த காளிவண்டின் உடலை, எறும்புகள் கொஞ்சம் கொஞ்சமாக அழித்தன.",
+      "meaning_in_tamil": "ஒருவரை கொஞ்சம் கொஞ்சமாக அழி",
+      "emoji": "🐜"
+    },
+    {
+      "word": "Sabre",
+      "meaning": "A heavy sword with curved blade",
+      "example": "The minister of King 23rd Pulikesi left his sabre at home.",
+      "example_in_tamil": "23ம் புலிகேசி மன்னரது அமைச்சர், தனது உடைவாளை வீட்டிலேயே விட்டுவிட்டார்.",
+      "meaning_in_tamil": "சிறிது வளைந்திருக்கும் பெரிய வாள்",
+      "emoji": "🗡️"
+    },
+    {
+      "word": "Saccharine",
+      "meaning": "Too sweet or sentimental",
+      "example": "It is very saccharine to hear that my brother, Saravanan from Kallidaikurichi, is at the age of getting married.",
+      "example_in_tamil": "கல்லிடைக்குறிச்சியிலிருக்கும் எனது தம்பி சரவணன், திருமண வயதிலிருப்பதை அறியும்போது, இனிமையாகவுள்ளது.",
+      "meaning_in_tamil": "மிக இனிமையான",
+      "emoji": "👰🏻‍♂️"
+    },
+    {
+      "word": "Sack",
+      "meaning": "A large bag / Dismiss someone from employment / To enter forcefully and destroy",
+      "example": "The titans sacked the city.",
+      "example_in_tamil": "ஆலிகள், நகர்புகுந்து அழித்தனர்.",
+      "meaning_in_tamil": "சாக்குப்பை / ஒருவரை வேலையிலிருந்து தூக்கு / ஓர் இடத்திற்குள் வலுக்கட்டாயமாக நுழைந்து அழி",
+      "emoji": "👹"
+    },
+    {
+      "word": "Sag",
+      "meaning": "Sink, subside, or bulge downwards under weight or pressure",
+      "example": "The weight of the fruit cluster on the palmyra tree made it sag.",
+      "example_in_tamil": "பனங்குலையின் எடை, அதனை வளையச்செய்தது.",
+      "meaning_in_tamil": "எடை அல்லது அழுத்தத்தின் காரணமாக வளை அல்லது மூழ்கு அல்லது வீங்கு",
+      "emoji": "🍒"
+    },
+    {
+      "word": "Sagacious",
+      "meaning": "Having or showing keen mental discernment and good judgment; wise",
+      "example": "My HOD’s sagacious advice helped me navigate through a difficult situation.",
+      "example_in_tamil": "இடர்கலைந்தோட, எனது துறைத்தலைவரின் அறிவார்ந்த அறிவுரை உதவியது.",
+      "meaning_in_tamil": "திறம்பட முடிவெடுக்கக்கூடிய / அறிவில் மிகைத்த",
+      "emoji": "🧑🏻‍🏫"
+    },
+    {
+      "word": "Sanguine",
+      "meaning": "Optimistic or positive, especially in a difficult situation",
+      "example": "When everyone started to hate me, I remained sanguine that one day they would long for me, and it happened.",
+      "example_in_tamil": "யாவரும் எம்மை வெறுக்கத் துவங்கியபோது, யாம் ஒருநாளில் அவர்களால் தேடப்படுவோம் என நல்லெண்ணத்தோடிருந்தோம். அப்படியே நடந்தது.",
+      "meaning_in_tamil": "கடினமான சூழலிலும் நேர்மறைச்சிந்தையோடு இருக்கின்ற",
+      "emoji": "🙂"
+    }
+  ],
+  "T": [
+    {
+      "word": "Taboo",
+      "meaning": "A social or religious custom placing restriction on something",
+      "example": "Drawing pictures of animated beings is taboo in Islam.",
+      "example_in_tamil": "உயிருள்ளவற்றை வரைவது, இசுலாமில் தடைசெய்யப்பட்ட ஒன்று.",
+      "meaning_in_tamil": "சமுதாய அல்லது மதவளவில் ஒன்றனை தடைசெய்யும் பழக்கம்",
+      "emoji": "☪️"
+    },
+    {
+      "word": "Table",
+      "meaning": "To present something formally / A collection of Rows and Columns / To postpone something",
+      "example": "Ari was tabling the concept of how bacteriophages kill viruses.",
+      "example_in_tamil": "எவ்வாறு பாக்டீரியோஃபேச்கள், வைரசுகளை கொல்லுகின்றன எனும் கருத்தியலை, அரி வழங்கிக் காண்பித்துக்கொண்டிருந்தான்.",
+      "meaning_in_tamil": "ஒன்றனை வழங்கி காண்பி / நிரல்-நிரைகளின் சேர்ப்பு / ஒன்றனை தள்ளிப்போடு",
+      "emoji": "🦠"
+    },
+    {
+      "word": "Tacit",
+      "meaning": "Understanding without being stated",
+      "example": "Ari and Esakki came to a tacit decision of not mocking each other as both of them get humiliated when they mock each other in front of others.",
+      "example_in_tamil": "ஒருவரையொருவர் மற்றவர் முன்னர் கிண்டல் செய்கையில், தாங்களே அசிங்கப்பட்டுப்போவதால், இனி ஒருவரையொருவர் கிண்டல் செய்யவேண்டாமென்ற மானசீக முடிவிற்கு, அரியும் இசக்கியும் வந்தனர்.",
+      "meaning_in_tamil": "சொல்லாமலேயே (மானசீகமாக) புரிந்துகொள்கின்ற",
+      "emoji": "🥲"
+    },
+    {
+      "word": "Taciturn",
+      "meaning": "Saying less",
+      "example": "Esakki is taciturn when talking about himself but loquacious when talking about Ari.",
+      "example_in_tamil": "இசக்கி, தன்னைப்பற்றி பேசுகையில் வாயை அடக்குபவனாயினும், அரியைப்பற்றி பேசுகையில், வாயை அவிழ்ப்பவனாவான்.",
+      "meaning_in_tamil": "குறைவாக சொல்லுகின்ற",
+      "emoji": "🤐"
+    },
+    {
+      "word": "Tacky",
+      "meaning": "Sticky because not fully dried / Showing poor taste and quality",
+      "example": "The clay statue of Sudalai Madan made by Ari was tacky at 3:00 pm.",
+      "example_in_tamil": "அரி செய்த சுடலை மாடனின், களிமண் சிலை, பிற்பகல் மூன்றுமணிக்கு, ஒட்டுந்தன்மையோடிருந்தது.",
+      "meaning_in_tamil": "முழுவதும் காயாததால் ஒட்டுகின்ற / சுவை மற்றும் தரத்தில் தாழ்ந்த",
+      "emoji": "🤎"
+    },
+    {
+      "word": "Thwart",
+      "meaning": "To prevent someone from accomplishing something",
+      "example": "The master cut off Yekalaivan’s fingers to thwart him from becoming a great archer.",
+      "example_in_tamil": "ஏகலைவனை, ஒரு சிறந்த வில்லாளியாக மாறவிடாமல், அவனது விரல்களை, குரு வெட்டினார்.",
+      "meaning_in_tamil": "ஒருவரை, ஒன்றனை சாதிக்க/செய்ய விடாமல் தடு",
+      "emoji": "👎"
+    },
+    {
+      "word": "Tribulation",
+      "meaning": "A cause of great trouble or suffering",
+      "example": "The tribulation of the coronavirus is not attributed to China, but to America.",
+      "example_in_tamil": "கொரனா தீநுண்மி, அமெரிக்காவேயன்றி சீனாவோடு தொடர்புடையதன்று!",
+      "meaning_in_tamil": "ஒரு இடர் அல்லது பாதிப்பின் காரணம்",
+      "emoji": "🦠"
+    }
+  ],
+  "U": [
+    {
+      "word": "Ubiquitous",
+      "meaning": "Being present everywhere",
+      "example": "The Tamil Literatures should be ubiquitous.",
+      "example_in_tamil": "தமிழ் இலக்கியங்கள், எங்கும் நிறையவேண்டும்!",
+      "meaning_in_tamil": "எங்கும் இருக்கின்ற",
+      "emoji": "📕"
+    },
+    {
+      "word": "Ulterior",
+      "meaning": "Non Obvious",
+      "example": "Ari has some ulterior aims.",
+      "example_in_tamil": "அரி, சில மறைமுக திட்டங்களைக் கொண்டுள்ளான்.",
+      "meaning_in_tamil": "வெளிப்படையற்ற",
+      "emoji": "😉"
+    },
+    {
+      "word": "Ululate",
+      "meaning": "To howl or wail",
+      "example": "Esakki ululated when his parents didn’t allow him to get married.",
+      "example_in_tamil": "இசக்கி, அவனது பெற்றோர்கள் அவனை திருமணம் செய்ய அனுமதியாததால், கதறி ஊளையிட்டான்.",
+      "meaning_in_tamil": "ஊளையிட்டு கதறு",
+      "emoji": "🐺"
+    },
+    {
+      "word": "Umbrage",
+      "meaning": "Take offence or become annoyed",
+      "example": "Esakki took umbrage when Ari scolded him for wearing his vetti incorrectly.",
+      "example_in_tamil": "வேட்டியை மாற்றிக்கட்டியதற்காக அரி இசக்கியை வைதபோது, அவன் மனமுடைந்துபோனான்.",
+      "meaning_in_tamil": "புண்பட்ட மனநிலை",
+      "emoji": "😔"
+    },
+    {
+      "word": "Umpteen",
+      "meaning": "Infinitely many",
+      "example": "I’ve told you umpteen times to read Silappathikaram.",
+      "example_in_tamil": "சிலப்பதிகாரம் வாசிக்குமாறு, நான் உன்னிடம் அதிகமுறை சொல்லியுள்ளேன்.",
+      "meaning_in_tamil": "மிக அதிகமான",
+      "emoji": "📖"
+    },
+    {
+      "word": "Uncanny",
+      "meaning": "Strange or mysterious",
+      "example": "The uncanny movements of the rat confuse the cat.",
+      "example_in_tamil": "எலியின் விசித்திர நகர்வுகள், பூச்சையை குழப்புகிறது.",
+      "meaning_in_tamil": "விசித்திரமான",
+      "emoji": "😾"
+    },
+    {
+      "word": "Unprecedented",
+      "meaning": "Never done or known before; without previous example",
+      "example": "It is an unprecedented feeling, a thought that breaks the heart!",
+      "example_in_tamil": "இதுவரை இல்லாத உணர்விது… இதயத்தை துண்டாக்கும் நினைவிது…",
+      "meaning_in_tamil": "இதுவரை செய்யப்படாத/தெரியாத/இல்லாத",
+      "emoji": "❤️‍🩹"
+    }
+  ],
+  "V": [
+    {
+      "word": "Vacillate",
+      "meaning": "Keep changing your mind about something",
+      "example": "Ari vacillates about leaving Tenkasi or staying in Tenkasi.",
+      "example_in_tamil": "தென்காசியை விட்டு போவோமா, வேண்டாமாவென, அரி தொடர்ந்து தனது எண்ணங்களை மாற்றிக்கொண்டேயிருக்கிறான்.",
+      "meaning_in_tamil": "ஒன்றனைக்குறித்து, தொடர்ந்து எண்ணத்தை மாற்றிக்கொண்டேயிரு",
+      "emoji": "🥹"
+    },
+    {
+      "word": "Vacuous",
+      "meaning": "Showing a lack of intelligence or thought",
+      "example": "Esakki was vacuous when he was asked to tell something about the parakeet.",
+      "example_in_tamil": "கிளியை பற்றி ஏதாவது கூறுமாறு கேட்டபோது, இசக்கி ஒன்றும் தெரியாததுபோல இருந்தான்.",
+      "meaning_in_tamil": "திறனற்றார் / அறிவற்றார் போல் இருக்கின்ற",
+      "emoji": "🦜"
+    },
+    {
+      "word": "Vagabond",
+      "meaning": "A wandering person who has no house or job",
+      "example": "The Nari Kuravar are vagabonds.",
+      "example_in_tamil": "நரிக்குறவர்கள், நாடோடிகள்.",
+      "meaning_in_tamil": "வீடு அல்லது வேலை இல்லாமல், அலைந்து திரியும் நாடோடி",
+      "emoji": "🚶🏻"
+    },
+    {
+      "word": "Vade Mecum",
+      "meaning": "A handbook or guide that is constantly carried by someone for frequent use or reference",
+      "example": "Srivatsan took his vade mecum dictionary to know the meaning of the new word.",
+      "example_in_tamil": "சிரிவட்சன், புது வார்த்தைக்கு அர்த்தம் காணுதற்பொருட்டு, தனது சிறு கையகராதியை எடுத்தான்.",
+      "meaning_in_tamil": "அவ்வப்போது எடுத்து பார்க்கும் வண்ணம், கையில் எப்போதும் வைத்திருக்கும் சிறு புத்தகம்",
+      "emoji": "📔"
+    },
+    {
+      "word": "Vagary",
+      "meaning": "An Unexpected and Mysterious change",
+      "example": "The sudden improvement in the world over the last 50 years is a vagary.",
+      "example_in_tamil": "கடந்த 50 ஆண்டுகளில் உலகில் உண்டான முன்னேற்றம், எதிர்பாராத புதிரான மாற்றம்.",
+      "meaning_in_tamil": "எதிர்பாராத மற்றும் புதிரான ஒரு மாற்றம்",
+      "emoji": "🌏"
+    },
+    {
+      "word": "Vindicate",
+      "meaning": "To clear someone of blame or suspicion; to show or prove to be right",
+      "example": "My win vindicated the trust my teachers had in me.",
+      "example_in_tamil": "எம் வெற்றி, எம் ஆசிரியர்கள் எம்மீது கொண்டிருந்த நம்பிக்கையை மெய்யென நிரூபித்தது.",
+      "meaning_in_tamil": "ஒருவரை/ஒன்றனை உண்மை/சரியென நிரூபி",
+      "emoji": "💯"
+    },
+    {
+      "word": "Valiant",
+      "meaning": "Showing courage or determination",
+      "example": "My grandmother is truly valiant, which is why she was able to overcome many struggles in her life.",
+      "example_in_tamil": "என் பாட்டி, உண்மையில் மனத்தெம்பு மிக்கவள்! ஆகையால்தான், பல போராட்டங்களை தன் வாழ்வில் தாண்ட முடிந்திருக்கிறது.",
+      "meaning_in_tamil": "மனத்தளவில் தைரியம் / உறுதியான",
+      "emoji": "💪"
+    }
+  ],
+  "W": [
+    {
+      "word": "Wacko",
+      "meaning": "Mad, Insane",
+      "example": "Esakki is not a wacko to be unaware of even alphabets.",
+      "example_in_tamil": "“ஆனா ஆவன்னா” கூட தெரியாமலிருக்க, இசக்கி ஒரு முட்டாள் அல்லன்.",
+      "meaning_in_tamil": "முட்டாள்",
+      "emoji": "🧏🏻"
+    },
+    {
+      "word": "Wacky",
+      "meaning": "Funny in a slightly odd way",
+      "example": "When I saw the parrot birdlet with no feathers on its body, I felt wacky.",
+      "example_in_tamil": "உடலில், இறகுகள் ஏதுமில்லாத கிளிப்பிள்ளையை நான் பார்க்கையில், வினோதம் கலந்த கேளிக்கையை உணர்ந்தேன்.",
+      "meaning_in_tamil": "வினோதமான வகையில், கேளிக்கையான",
+      "emoji": "🫢"
+    },
+    {
+      "word": "Waddle",
+      "meaning": "Walk with small steps and a clumsy swaying motion like a penguin",
+      "example": "Every baby will be waddling.",
+      "example_in_tamil": "எல்லா குழந்தைகளும், உடலசைத்து நடந்துகொண்டிருப்பர்.",
+      "meaning_in_tamil": "பென்குயின் போல, அக்கம் பக்கம் உடலை சாய்த்து, மெல்லடிகளோடு நட",
+      "emoji": "👶🏻"
+    },
+    {
+      "word": "Wade",
+      "meaning": "Walk through water or mud",
+      "example": "I was wading when I was in Ambasamudram.",
+      "example_in_tamil": "அம்பாசமுத்திரத்தில் நான் இருக்கையில், நீருக்குள் நடந்துகொண்டிருந்தேன்.",
+      "meaning_in_tamil": "நீர் அல்லது சகதிக்குள் நட",
+      "emoji": "🤽‍♂️"
+    },
+    {
+      "word": "Wag",
+      "meaning": "To move rapidly to and fro",
+      "example": "My dog was wagging its tail.",
+      "example_in_tamil": "எனது நாய், அதன் வாலை ஆட்டிக்கொண்டிருந்தது.",
+      "meaning_in_tamil": "இங்கும் அங்குமாக வேகமாக நகர்",
+      "emoji": "🐶"
+    },
+    {
+      "word": "Wary",
+      "meaning": "Cautious or careful about possible dangers or problems",
+      "example": "I am wary of every step I take toward my future, while Esakki is wary about making sure his meals are non-veg every day.",
+      "example_in_tamil": "நான், எதிர்காலத்தை நோக்கி எடுத்துவைக்கும் ஒவ்வொரு அடியிலும் கவனங்கொண்டிருக்க, இசக்கியோ, தினசரி உணவு அசைவமா என்பதில் கவனங்கொண்டுள்ளான்.",
+      "meaning_in_tamil": "அபாயத்தைக்குறித்து, எச்சரிக்கையாய் இருக்கின்ற",
+      "emoji": "🍗"
+    },
+    {
+      "word": "Winsome",
+      "meaning": "Attractive or appealing in a fresh, innocent way",
+      "example": "The students are winsome in their innocence.",
+      "example_in_tamil": "மாணாக்கர்கள், அவர்களது அப்பாவித்தனத்தால் கவர்ச்சியாயுள்ளார்கள்.",
+      "meaning_in_tamil": "புதிதானதாய் / அப்பாவித்தனமாய் கவர்ச்சியான",
+      "emoji": "😍"
+    }
+  ],
+  "X": [
+    {
+      "word": "Xeno",
+      "meaning": "Foreign / Strange",
+      "example": "Esakki experienced xenophobia when he met an Egyptian woman.",
+      "example_in_tamil": "ஓர் எகிப்திய பெண்மணியைக் கண்டபோது, இசக்கி சற்று பயமுற்றான்.",
+      "meaning_in_tamil": "வித்தியாசமான / முற்றிலும் வேற்றகத்திய",
+      "emoji": "👧🏻"
+    },
+    {
+      "word": "Xylography",
+      "meaning": "The art of engraving on wood",
+      "example": "One of my friends is skilled in xylography who made the Marapachi Bommai.",
+      "example_in_tamil": "மரவெலைபாடுகளில் திறன் மிகுந்த என் நண்பர்களில் ஒருவன், மரப்பாச்சி பொம்மையை செய்தான்.",
+      "meaning_in_tamil": "மரவேலைபாடுகளில் திறன் மிகுந்த",
+      "emoji": "🧸"
+    }
+  ],
+  "Y": [
+    {
+      "word": "Yak",
+      "meaning": "Talk at length about unimportant or boring subjects",
+      "example": "Esakki was yacking about how he comes to college daily.",
+      "example_in_tamil": "எவ்வாறு தினமும் தான் கல்லூரிக்கு வருகிறான் என்பதை குறித்து, அறுவைப்போட்டான் இசக்கி.",
+      "meaning_in_tamil": "முக்கியமற்ற அல்லது சலிப்பூட்டுவனவற்றை பற்றி, அதிகநேரம் பேசு / அறுவைப்போடு",
+      "emoji": "🥱"
+    },
+    {
+      "word": "Yammer",
+      "meaning": "Talk regularly without pausing",
+      "example": "When asked about leaves, Ari started to yammer.",
+      "example_in_tamil": "இலைகளைக்குறித்து கேட்கையில், அரி நிறுத்தாமல் சத்தமாக பேசத்தொடங்கினான்.",
+      "meaning_in_tamil": "நிறுத்தாமல் சத்தமாக பேசிக்கொண்டேயிரு",
+      "emoji": "🍀"
+    },
+    {
+      "word": "Yank",
+      "meaning": "Pull quickly and hard",
+      "example": "When Esakki felt a bite on his fishing rod, he yanked it but got a crab.",
+      "example_in_tamil": "தனது தூண்டில் தீண்டப்படுவதை உணர்ந்த இசக்கி, அதை சட்டென இழுக்க, நண்டு கிடைத்தது.",
+      "meaning_in_tamil": "சட்டென வன்மையாக இழு",
+      "emoji": "🦀"
+    },
+    {
+      "word": "Yap",
+      "meaning": "Talk at length in an irritating way",
+      "example": "The RJ was yapping on the FM, which made Ari turn the radio off.",
+      "example_in_tamil": "வானொலி புரவலர், எரிச்சலூட்டும் விதமாக தொடர்ந்து பேசிக்கொண்டேயிருந்தது, அரியை வானொலியை அமர்த்திப்போட வைத்தது.",
+      "meaning_in_tamil": "எரிச்சலூட்டும் விதமாக, பேசிக்கொண்டேயிரு",
+      "emoji": "📻"
+    },
+    {
+      "word": "Yard",
+      "meaning": "A piece of enclosed ground near a building",
+      "example": "In the yard of Esakki’s home in Pappakudi, there is a pond.",
+      "example_in_tamil": "பாப்பாக்குடியிலிருக்கும், இசக்கியின் வீட்டு கொள்ளைப்புறத்தில், ஒரு குளம் உள்ளது.",
+      "meaning_in_tamil": "ஒரு கட்டடத்திற்கு அருகாமையிலுள்ள நிலப்பகுதி / கொள்ளைபுறம்",
+      "emoji": "🌊"
+    },
+    {
+      "word": "Yen",
+      "meaning": "A strong desire or craving for something",
+      "example": "My yen is to write my own books, while Esakki’s is to enjoy Kolukkattai.",
+      "example_in_tamil": "என் தீவிர ஆசை சுயமாக புத்தகம் எழுதுவதாகயிருக்க, இசக்கியினதோ, கொளுக்கட்டை ருசிப்பதாகவுள்ளது.",
+      "meaning_in_tamil": "ஒன்றன் மீதான ஆசை / ஏக்கம்",
+      "emoji": "😋"
+    },
+    {
+      "word": "Yuletide",
+      "meaning": "The Christmas season",
+      "example": "The Yuletide is approaching.",
+      "example_in_tamil": "கிறித்துமசு காலம் நெருங்குகிறது.",
+      "meaning_in_tamil": "கிறித்துமசு காலம்",
+      "emoji": "🎅🏻"
+    }
+  ],
+  "Z": [
+    {
+      "word": "Zany",
+      "meaning": "Amusingly strange / Idiosyncratic",
+      "example": "The comedian’s zany antics had the audience laughing all night.",
+      "example_in_tamil": "நகையாளரின் கேளிக்கைமிகுந்த நடத்தைகள், பார்வையாளர்களை இரவெலாம் சிரிப்பில் ஆழ்த்தியது.",
+      "meaning_in_tamil": "நகையூட்டும் வண்ணம், வழக்கத்திற்கு மாறான / தனித்துவமான",
+      "emoji": "🤡"
+    },
+    {
+      "word": "Zap",
+      "meaning": "To destroy someone or something",
+      "example": "The spirit of Esakki went to his wife and said, “You zapped me.”",
+      "example_in_tamil": "இசக்கியின் ஆவி, அவனது மனைவியிடத்தே சென்று, “முடிச்சுவிட்டுடீங்க போங்க,” என்றது.",
+      "meaning_in_tamil": "ஒருவரை / ஒன்றனை அழி",
+      "emoji": "👻"
+    },
+    {
+      "word": "Zealous",
+      "meaning": "Having great enthusiasm",
+      "example": "Ari becomes zealous when there is talk of plants.",
+      "example_in_tamil": "செடிகளைக்குறித்து பேசுகையில், அரி புத்துணர்ச்சியடைகிறான்.",
+      "meaning_in_tamil": "அதிக புத்துணர்ச்சியான",
+      "emoji": "🍀"
+    },
+    {
+      "word": "Zillion",
+      "meaning": "Extremely large in number",
+      "example": "A zillion people don’t like bitter gourd, but Ari does.",
+      "example_in_tamil": "அதிகபடியான மக்களுக்கு பாகற்காய் பிடிக்காது. எனினும், அரிக்கு பிடிக்கும்.",
+      "meaning_in_tamil": "அதிக எண்ணிக்கையுள்ள",
+      "emoji": "😋"
+    },
+    {
+      "word": "Zing",
+      "meaning": "Energy / Excitement / To move swiftly",
+      "example": "I need zing to achieve great heights.",
+      "example_in_tamil": "சாயுச்சியமாக, எனக்கு ஆர்வம் தேவை.",
+      "meaning_in_tamil": "ஆற்றல் / ஆர்வம் / வேகமாக நகர்",
+      "emoji": "🏆"
+    },
+    {
+      "word": "Zone Out",
+      "meaning": "To lose focus or become inattentive, often due to distraction",
+      "example": "Esakki zoned out on his studies when he started watching wrestling.",
+      "example_in_tamil": "மல்யுத்தம் பார்க்க துவங்கியதிலிருந்து, இசக்கி படிப்பில் கவனமிழந்துபோனான்.",
+      "meaning_in_tamil": "கவனமிழந்து போ",
+      "emoji": "🥊"
+    }
+  ]
+}

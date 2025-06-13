@@ -48,9 +48,6 @@ export default function RightBar() {
                             onClick={() => setLetter(currentLetter)}
                         >
                             <h1>{currentLetter}</h1>
-                            {hoveredLetter === currentLetter && (
-                                <p className={style.word_count}>{cache.current[currentLetter] ? cache.current[currentLetter].length : 0} Words</p>
-                            )}
                         </div>
                     ))}
                 </div>
